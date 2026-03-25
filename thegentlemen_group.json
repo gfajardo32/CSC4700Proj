@@ -1,0 +1,291 @@
+{
+  "_victim_count": 261,
+  "altname": null,
+  "date": "2025-09-09",
+  "description": null,
+  "extensions ": null,
+  "lineage": null,
+  "locations": [
+    {
+      "available": false,
+      "enabled": true,
+      "fqdn": "tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+      "http": {
+        "error": null,
+        "fetched_at": "2026-03-24T15:01:46+00:00",
+        "final_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "fingerprint": {
+          "cdn": null,
+          "content_length": null,
+          "content_type": "text/html; charset=utf-8",
+          "security_headers": {
+            "x-content-type-options": "nosniff",
+            "x-frame-options": "DENY"
+          },
+          "server": "nginx",
+          "set_cookie_present": false,
+          "via": null,
+          "x_powered_by": null
+        },
+        "headers": {
+          "cache-control": "no-cache",
+          "connection": "keep-alive",
+          "content-disposition": "inline; filename=index.html",
+          "content-encoding": "gzip",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Tue, 24 Mar 2026 15:01:52 GMT",
+          "last-modified": "Tue, 24 Mar 2026 01:20:26 GMT",
+          "server": "nginx",
+          "vary": "Accept-Encoding",
+          "x-content-type-options": "nosniff",
+          "x-frame-options": "DENY"
+        },
+        "http_version": "HTTP/1.1",
+        "redirect_chain": [],
+        "start_url": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+        "status": 200
+      },
+      "lastscrape": "2026-03-24 16:02:08.361167",
+      "slug": "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion",
+      "title": "The Gentlemen",
+      "type": "DLS",
+      "updated": "2026-03-24 13:33:03.093642"
+    }
+  ],
+  "meta": null,
+  "name": "thegentlemen",
+  "profile": [],
+  "tools": [],
+  "ttps": [
+    {
+      "tactic_id": "TA0001",
+      "tactic_name": "Initial Access",
+      "techniques": [
+        {
+          "technique_details": "Exploitation of public-facing applications for initial access.",
+          "technique_id": "T1190",
+          "technique_name": "Exploit Public-Facing Application"
+        },
+        {
+          "technique_details": "Use of valid accounts for initial access.",
+          "technique_id": "T1078",
+          "technique_name": "Valid Accounts"
+        },
+        {
+          "technique_details": "Use of valid domain accounts for initial access.",
+          "technique_id": "T1078.002",
+          "technique_name": "Valid Accounts: Domain Accounts"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0002",
+      "tactic_name": "Execution",
+      "techniques": [
+        {
+          "technique_details": "Use of command and scripting interpreters for execution.",
+          "technique_id": "T1059",
+          "technique_name": "Command and Scripting Interpreter"
+        },
+        {
+          "technique_details": "Use of PowerShell for execution.",
+          "technique_id": "T1059.001",
+          "technique_name": "Command and Scripting Interpreter: PowerShell"
+        },
+        {
+          "technique_details": "Use of Windows Command Shell for execution.",
+          "technique_id": "T1059.003",
+          "technique_name": "Command and Scripting Interpreter: Windows Command Shell"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0003",
+      "tactic_name": "Persistence",
+      "techniques": [
+        {
+          "technique_details": "Boot or logon autostart execution for persistence.",
+          "technique_id": "T1547",
+          "technique_name": "Boot or Logon Autostart Execution"
+        },
+        {
+          "technique_details": "Creation of accounts for persistence.",
+          "technique_id": "T1136",
+          "technique_name": "Create Account"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0004",
+      "tactic_name": "Privilege Escalation",
+      "techniques": [
+        {
+          "technique_details": "Exploitation of vulnerabilities for privilege escalation.",
+          "technique_id": "T1068",
+          "technique_name": "Exploitation for Privilege Escalation"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0005",
+      "tactic_name": "Defense Evasion",
+      "techniques": [
+        {
+          "technique_details": "Impairing defenses to avoid detection.",
+          "technique_id": "T1562",
+          "technique_name": "Impair Defenses"
+        },
+        {
+          "technique_details": "Modifying the registry for defense evasion.",
+          "technique_id": "T1112",
+          "technique_name": "Modify Registry"
+        },
+        {
+          "technique_details": "Obfuscation of files or information to evade detection.",
+          "technique_id": "T1027",
+          "technique_name": "Obfuscated Files or Information"
+        },
+        {
+          "technique_details": "Modification of Group Policy for defense evasion.",
+          "technique_id": "T1484.001",
+          "technique_name": "Domain Policy Modification: Group Policy Modification"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0007",
+      "tactic_name": "Discovery",
+      "techniques": [
+        {
+          "technique_details": "Discovery of network services.",
+          "technique_id": "T1046",
+          "technique_name": "Network Service Discovery"
+        },
+        {
+          "technique_details": "Discovery of accounts within the environment.",
+          "technique_id": "T1087",
+          "technique_name": "Account Discovery"
+        },
+        {
+          "technique_details": "Discovery of domain accounts within the environment.",
+          "technique_id": "T1087.002",
+          "technique_name": "Account Discovery: Domain Account"
+        },
+        {
+          "technique_details": "Discovery of domain trust relationships.",
+          "technique_id": "T1482",
+          "technique_name": "Domain Trust Discovery"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0008",
+      "tactic_name": "Lateral Movement",
+      "techniques": [
+        {
+          "technique_details": "Use of remote services for lateral movement.",
+          "technique_id": "T1021",
+          "technique_name": "Remote Services"
+        },
+        {
+          "technique_details": "Use of RDP for lateral movement.",
+          "technique_id": "T1021.001",
+          "technique_name": "Remote Services: Remote Desktop Protocol"
+        },
+        {
+          "technique_details": "Use of SMB/Windows Admin Shares for lateral movement.",
+          "technique_id": "T1021.002",
+          "technique_name": "Remote Services: SMB/Windows Admin Shares"
+        },
+        {
+          "technique_details": "Use of SSH for lateral movement.",
+          "technique_id": "T1021.004",
+          "technique_name": "Remote Services: SSH"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0009",
+      "tactic_name": "Collection",
+      "techniques": [
+        {
+          "technique_details": "Staging of collected data prior to exfiltration.",
+          "technique_id": "T1074",
+          "technique_name": "Data Staged"
+        },
+        {
+          "technique_details": "Local staging of collected data prior to exfiltration.",
+          "technique_id": "T1074.001",
+          "technique_name": "Data Staged: Local Data Staging"
+        },
+        {
+          "technique_details": "Collection of data from network shared drives.",
+          "technique_id": "T1039",
+          "technique_name": "Data from Network Shared Drive"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0010",
+      "tactic_name": "Exfiltration",
+      "techniques": [
+        {
+          "technique_details": "Exfiltration of data over encrypted channels.",
+          "technique_id": "T1048",
+          "technique_name": "Exfiltration Over Alternative Protocol"
+        },
+        {
+          "technique_details": "Exfiltration over symmetric encrypted non-C2 channels.",
+          "technique_id": "T1048.001",
+          "technique_name": "Exfiltration Over Alternative Protocol: Exfiltration Over Symmetric Encrypted Non-C2 Protocol"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0011",
+      "tactic_name": "Command and Control",
+      "techniques": [
+        {
+          "technique_details": "Use of application layer protocols for C2 communication.",
+          "technique_id": "T1071",
+          "technique_name": "Application Layer Protocol"
+        },
+        {
+          "technique_details": "Use of web protocols for C2 communication.",
+          "technique_id": "T1071.001",
+          "technique_name": "Application Layer Protocol: Web Protocols"
+        },
+        {
+          "technique_details": "Use of remote access software for C2.",
+          "technique_id": "T1219",
+          "technique_name": "Remote Access Software"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0040",
+      "tactic_name": "Impact",
+      "techniques": [
+        {
+          "technique_details": "Encryption of data for extortion.",
+          "technique_id": "T1486",
+          "technique_name": "Data Encrypted for Impact"
+        },
+        {
+          "technique_details": "Stopping services to maximize impact.",
+          "technique_id": "T1489",
+          "technique_name": "Service Stop"
+        },
+        {
+          "technique_details": "Leveraging unsecured credentials found in the environment.",
+          "technique_id": "T1552",
+          "technique_name": "Unsecured Credentials"
+        }
+      ]
+    }
+  ],
+  "type": {
+    "raas": false
+  },
+  "url": "https://www.ransomware.live/group/thegentlemen"
+}

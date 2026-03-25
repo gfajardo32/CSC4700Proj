@@ -1,0 +1,184 @@
+{
+  "_victim_count": 1217,
+  "description": "Initially observed in June 2022, the Play ransomware (a.k.a PlayCrypt) operates through double extortion, targeting numerous organizations in Latin America. Its Initial Access method is quite similar to other ransomwares, involving attacks such as Phishing, Exposed Services to the Internet, and Valid Account compromises.<br> <br> On April 19, 2023, the security company Symantec published two new tools developed by the Play group. These tools allow the malicious actor to enumerate and exfiltrate data from the internal network. The post mentions the following: 'Play threat actors use the .NET infostealer to enumerate software and services via WMI, WinRM, Remote Registry, and Remote Service. The malware checks for the existence of security and backup software, as well as remote administration tools and other programs, saving the information in .CSV files that are compressed into a .ZIP file for later manual exfiltration by threat actors.'Source: https://github.com/crocodyli/ThreatActors-TTPs",
+  "locations": [
+    {
+      "available": true,
+      "enabled": true,
+      "fqdn": "mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion",
+      "http": {
+        "error": null,
+        "fetched_at": "2026-03-24T16:02:18+00:00",
+        "final_url": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=13",
+        "fingerprint": {
+          "cdn": null,
+          "content_length": null,
+          "content_type": "text/html; charset=UTF-8",
+          "security_headers": {},
+          "server": "nginx/1.27.0",
+          "set_cookie_present": false,
+          "via": null,
+          "x_powered_by": null
+        },
+        "headers": {
+          "connection": "keep-alive",
+          "content-type": "text/html; charset=UTF-8",
+          "date": "Tue, 24 Mar 2026 16:02:22 GMT",
+          "server": "nginx/1.27.0"
+        },
+        "http_version": "HTTP/1.1",
+        "redirect_chain": [],
+        "start_url": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=13",
+        "status": 200
+      },
+      "lastscrape": "2026-03-24 16:02:18.121052",
+      "slug": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=13",
+      "title": "PLAY NEWS",
+      "type": "DLS",
+      "updated": "2026-03-24 16:02:18.121052"
+    },
+    {
+      "available": true,
+      "enabled": true,
+      "fqdn": "k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion",
+      "http": {
+        "error": null,
+        "fetched_at": "2026-03-24T16:03:32+00:00",
+        "final_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/",
+        "fingerprint": {
+          "cdn": null,
+          "content_length": null,
+          "content_type": "text/html; charset=UTF-8",
+          "security_headers": {},
+          "server": "nginx/1.26.1",
+          "set_cookie_present": false,
+          "via": null,
+          "x_powered_by": null
+        },
+        "headers": {
+          "connection": "keep-alive",
+          "content-type": "text/html; charset=UTF-8",
+          "date": "Tue, 24 Mar 2026 16:03:37 GMT",
+          "server": "nginx/1.26.1"
+        },
+        "http_version": "HTTP/1.1",
+        "redirect_chain": [],
+        "start_url": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/",
+        "status": 200
+      },
+      "lastscrape": "2026-03-24 16:03:32.081046",
+      "slug": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/",
+      "title": "PLAY NEWS",
+      "type": "DLS",
+      "updated": "2026-03-24 16:03:32.081046"
+    },
+    {
+      "available": true,
+      "enabled": true,
+      "fqdn": "mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion",
+      "http": {
+        "error": null,
+        "fetched_at": "2026-03-24T16:04:42+00:00",
+        "final_url": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=1",
+        "fingerprint": {
+          "cdn": null,
+          "content_length": null,
+          "content_type": "text/html; charset=UTF-8",
+          "security_headers": {},
+          "server": "nginx/1.27.0",
+          "set_cookie_present": false,
+          "via": null,
+          "x_powered_by": null
+        },
+        "headers": {
+          "connection": "keep-alive",
+          "content-type": "text/html; charset=UTF-8",
+          "date": "Tue, 24 Mar 2026 16:04:46 GMT",
+          "server": "nginx/1.27.0"
+        },
+        "http_version": "HTTP/1.1",
+        "redirect_chain": [],
+        "start_url": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=1",
+        "status": 200
+      },
+      "lastscrape": "2026-03-24 16:04:42.814423",
+      "slug": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/index.php?page=1",
+      "title": "PLAY NEWS",
+      "type": "DLS",
+      "updated": "2026-03-24 16:04:42.814423"
+    },
+    {
+      "available": true,
+      "enabled": true,
+      "fqdn": "j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion",
+      "http": {
+        "error": null,
+        "fetched_at": "2026-03-24T16:05:53+00:00",
+        "final_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion",
+        "fingerprint": {
+          "cdn": null,
+          "content_length": null,
+          "content_type": "text/html; charset=UTF-8",
+          "security_headers": {},
+          "server": "nginx/1.26.1",
+          "set_cookie_present": false,
+          "via": null,
+          "x_powered_by": null
+        },
+        "headers": {
+          "connection": "keep-alive",
+          "content-type": "text/html; charset=UTF-8",
+          "date": "Tue, 24 Mar 2026 16:05:59 GMT",
+          "server": "nginx/1.26.1"
+        },
+        "http_version": "HTTP/1.1",
+        "redirect_chain": [],
+        "start_url": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion",
+        "status": 200
+      },
+      "lastscrape": "2026-03-24 16:05:53.865699",
+      "slug": "http://j75o7xvvsm4lpsjhkjvb4wl2q6ajegvabe6oswthuaubbykk4xkzgpid.onion",
+      "title": "PLAY NEWS",
+      "type": "DLS",
+      "updated": "2026-03-24 16:05:53.865699"
+    }
+  ],
+  "meta": null,
+  "name": "play",
+  "parser": true,
+  "profile": [
+    "[CISA Alert aa23-352a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-352a)"
+  ],
+  "tools": [
+    {
+      "CredentialTheft": [
+        "Mimikatz"
+      ],
+      "DefenseEvasion": [
+        "GMER",
+        "IOBit",
+        "PowerTool"
+      ],
+      "DiscoveryEnum": [
+        "AdFind",
+        "WKTools"
+      ],
+      "Exfiltration": [
+        "WinSCP"
+      ],
+      "LOLBAS": [
+        "PsExec"
+      ],
+      "Networking": [
+        "Plink"
+      ],
+      "Offsec": [
+        "Cobalt Strike",
+        "WinPEAS"
+      ],
+      "RMM-Tools": []
+    }
+  ],
+  "ttps": [],
+  "url": "https://www.ransomware.live/group/play"
+}
