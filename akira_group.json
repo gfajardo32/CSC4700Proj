@@ -1,0 +1,378 @@
+{
+  "_victim_count": 1387,
+  "altname": "",
+  "btc_address": [
+    "bc1q6dqe4esmqejmxhpj95qadv0j4clsqcxxp4cd94",
+    "bc1qandfxc4knaf943njca77edl9mmegzs83tv8lpx",
+    "bc1qr0pqfghr9cksfc5arr2rak3lt2y50v03pc76nh",
+    "bc1qpwwtck0zhzrj56fxeayz6wz5546nlp607qzpvh",
+    "bc1qghj85gz0dkr9jeucana3z4xu50ujtllj50rvj0",
+    "bc1qcnw5v94y40ast06eatgalnjpluu2p067qewh46"
+  ],
+  "description": "The Akira ransomware group is said to have emerged in March 2023, and there's much speculation about its ties to the former CONTI ransomware group.<br> <br> It's worth noting that with the end of CONTI's operation, several affiliates migrated to independent campaigns such as Royal, BlackBasta, and others.<br> <br> According to some reports, Akira affiliates also work with other ransomware operations, such as Snatch and BlackByte, as an open directory of tools used by an Akira operator was identified, which also had connections to the Snatch ransomware.<br> <br> The first version of the Akira ransomware was written in C++ and appended files with the '.akira' extension, creating a ransom note named 'akira_readme.txt,' partially based on the Conti V2 source code. However, on June 29, 2023, a decryptor for this version was reportedly released by Avast.<br> <br> Subsequently, a version was released that fixed the decryption flaw on July 2, 2023. Since then, the new version is said to be written in Rust, this time called 'megazord.exe,' and it changes the extension to '.powerranges' for encrypted files.<br> <br> Most of Akira's initial access vectors use brute-force attempts on Cisco VPN devices (which use single-factor authentication only).<br> Additionally, exploitation of CVEs: CVE-2019-6693 and CVE-2022-40684 for initial access has been identified.<BR>Source: https://github.com/crocodyli/ThreatActors-TTPs",
+  "extensions": ".akira,.arika",
+  "lineage": "conti",
+  "locations": [
+    {
+      "available": true,
+      "enabled": true,
+      "fqdn": "akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion",
+      "http": {
+        "error": null,
+        "fetched_at": "2026-03-24T16:01:16+00:00",
+        "final_url": "https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion",
+        "fingerprint": {
+          "cdn": null,
+          "content_length": "0",
+          "content_type": "text/html; charset=utf-8",
+          "security_headers": {
+            "referrer-policy": "strict-origin-when-cross-origin",
+            "strict-transport-security": "max-age=631138519",
+            "x-content-type-options": "nosniff",
+            "x-frame-options": "SAMEORIGIN",
+            "x-xss-protection": "0"
+          },
+          "server": "nginx",
+          "set_cookie_present": true,
+          "via": null,
+          "x_powered_by": null
+        },
+        "headers": {
+          "cache-control": "max-age=0, private, must-revalidate",
+          "connection": "keep-alive",
+          "content-length": "0",
+          "content-type": "text/html; charset=utf-8",
+          "date": "Tue, 24 Mar 2026 16:01:18 GMT",
+          "etag": "W/\"c1a9a512e3f8855745bc6442164de655\"",
+          "link": "</assets/application-6cd9ced07a1f268980e0118c31dd7442f4ec3842ea855103f84b182e17cc0499.css>; rel=preload; as=style; nopush,</assets/application-cc0af9e2727129840c31d83795e90516df7e09f489337ed187e85f32742bb3e1.js>; rel=preload; as=script; nopush",
+          "referrer-policy": "strict-origin-when-cross-origin",
+          "server": "nginx",
+          "set-cookie": "_app_session=Dr8sUQ2kHW3M3aiFbr0OOHSuG0f1dXXGiKB%2BY5cw%2F3%2B0E4bd8O1hVb8xbNSAJ7Ih%2BcomRNMUZLCaYh73nCOB3IWD2X9e6L1%2BEWnCXgkljlUXPdihLCgd9l79CMZ4aYJUUBJPqadl8%2FVyVYpLBMmIY1JWN5wLVWuaz8QjRo5m1m8K2BPH%2BM46UzcAl76i3FX5OMj%2FLaj9WFcOk5nvXxzfY1mccDEGi5FZRxZvqtjYIJmdZPllBPUcXmRVNh8MGDNZvMIy83UJJfKKqBe2cYkRJmWkrdw%3D--BlGLz2w3v1pI5F4Q--kkkApAu2tPHZ79RF1uk8MQ%3D%3D; path=/; httponly; samesite=lax",
+          "strict-transport-security": "max-age=631138519",
+          "vary": "Accept",
+          "x-content-type-options": "nosniff",
+          "x-frame-options": "SAMEORIGIN",
+          "x-permitted-cross-domain-policies": "none",
+          "x-request-id": "9296d143-49ac-4c72-9ede-9ded9f25d7a6",
+          "x-runtime": "0.003702",
+          "x-xss-protection": "0"
+        },
+        "http_version": "HTTP/1.1",
+        "redirect_chain": [],
+        "start_url": "https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion",
+        "status": 200
+      },
+      "lastscrape": "2026-03-24 16:01:14.891799",
+      "slug": "https://akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion",
+      "title": "",
+      "type": "DLS",
+      "updated": "2026-03-24 16:01:14.891799"
+    },
+    {
+      "available": true,
+      "enabled": true,
+      "fqdn": "akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion",
+      "http": {
+        "error": null,
+        "fetched_at": "2026-03-24T16:02:29+00:00",
+        "final_url": "https://akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion",
+        "fingerprint": {
+          "cdn": null,
+          "content_length": null,
+          "content_type": "text/html",
+          "security_headers": {},
+          "server": "nginx",
+          "set_cookie_present": false,
+          "via": null,
+          "x_powered_by": null
+        },
+        "headers": {
+          "connection": "keep-alive",
+          "content-encoding": "gzip",
+          "content-type": "text/html",
+          "date": "Tue, 24 Mar 2026 16:02:35 GMT",
+          "etag": "W/\"672415fd-625\"",
+          "server": "nginx"
+        },
+        "http_version": "HTTP/1.1",
+        "redirect_chain": [],
+        "start_url": "https://akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion",
+        "status": 403
+      },
+      "lastscrape": "2026-03-24 16:02:29.656605",
+      "slug": "https://akiralkzxzq2dsrzsrvbr2xgbbu2wgsmxryd4csgfameg52n7efvr2id.onion",
+      "title": "/",
+      "type": "Chat",
+      "updated": "2026-03-24 16:02:29.656605"
+    }
+  ],
+  "meta": "",
+  "name": "akira",
+  "parser": true,
+  "profile": [
+    "[CISA Alert aa24-109a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a)",
+    "https://blog.bushidotoken.net/2023/09/tracking-adversaries-akira-another.html"
+  ],
+  "tools": [
+    {
+      "CredentialTheft": [
+        "DonPAPI",
+        "LaZagne",
+        "Mimikatz"
+      ],
+      "DefenseEvasion": [
+        "PowerTool",
+        "Zemana Anti-Rootkit driver"
+      ],
+      "DiscoveryEnum": [
+        "Advanced IP Scanner",
+        "Bloodhound",
+        "ldapdomaindump",
+        "Masscan",
+        "ReconFTW",
+        "SharpHound",
+        "SharpShares",
+        "SoftPerfect NetScan"
+      ],
+      "Exfiltration": [
+        "FileZilla",
+        "MEGA",
+        "RClone",
+        "Temp[.]sh",
+        "WinSCP"
+      ],
+      "LOLBAS": [],
+      "Networking": [
+        "Cloudflared",
+        "OpenSSH",
+        "Ngrok"
+      ],
+      "Offsec": [
+        "CrackMapExec",
+        "Impacket",
+        "NetExec"
+      ],
+      "RMM-Tools": [
+        "AnyDesk",
+        "MeshAgent",
+        "MobaXterm",
+        "Radmin",
+        "RustDesk",
+        "TeamViewer"
+      ]
+    }
+  ],
+  "ttps": [
+    {
+      "tactic_id": "TA0001",
+      "tactic_name": "Initial Access",
+      "techniques": [
+        {
+          "technique_details": "Utilizes compromised VPN credentials.",
+          "technique_id": "T1078",
+          "technique_name": "Valid Accounts"
+        },
+        {
+          "technique_details": "Operators use obtained domain accounts for access.",
+          "technique_id": "T1078.002",
+          "technique_name": "Valid Accounts: Domain Accounts"
+        },
+        {
+          "technique_details": "Actors exploit CVE-2023-20269 remote service vulnerabilities.",
+          "technique_id": "T1133",
+          "technique_name": "External Remote Services"
+        },
+        {
+          "technique_details": "Targets vulnerable CISCO devices via CVE-2023-20269.",
+          "technique_id": "T1190",
+          "technique_name": "Exploit Public-Facing Application"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0003",
+      "tactic_name": "Persistence",
+      "techniques": [
+        {
+          "technique_details": "Upon initial access, Akira operators create a domain account on the compromised system.",
+          "technique_id": "T1136.002",
+          "technique_name": "Create Account: Domain Account"
+        },
+        {
+          "technique_details": "Upon initial access, Akira operators create a local account on the compromised system.",
+          "technique_id": "T1136.001",
+          "technique_name": "Create Account: Local Account"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0004",
+      "tactic_name": "Privilege Escalation",
+      "techniques": [
+        {
+          "technique_details": "Utilizes valid domain accounts for privilege escalation.",
+          "technique_id": "T1078.002",
+          "technique_name": "Valid Accounts: Domain Accounts"
+        },
+        {
+          "technique_details": "Utilizes local domain accounts for privilege escalation.",
+          "technique_id": "TA0004",
+          "technique_name": "Privilege Escalation"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0002",
+      "tactic_name": "Execution",
+      "techniques": [
+        {
+          "technique_details": "Accepts parameters for its routines such as \"-n 10\" (for encryption percentage) or \"-s (filename)\" (for shared folder encryption).",
+          "technique_id": "T1059",
+          "technique_name": "Command and Scripting Interpreter"
+        },
+        {
+          "technique_details": "Operators use PowerShell to launch commands to continue operations.",
+          "technique_id": "T1059.001",
+          "technique_name": "Command and Scripting Interpreter: PowerShell"
+        },
+        {
+          "technique_details": "Akira ransomware uses service execution for persistence.",
+          "technique_id": "T1059.002",
+          "technique_name": "System Services: Service Execution"
+        },
+        {
+          "technique_details": "Operators use CMD to launch commands to continue operations.",
+          "technique_id": "T1059.003",
+          "technique_name": "Command and Scripting Interpreter: Windows Command Shell"
+        },
+        {
+          "technique_details": "Actors may use WMI to continue the attack.",
+          "technique_id": "T1047",
+          "technique_name": "Windows Management Instrumentation"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0005",
+      "tactic_name": "Defense Evasion",
+      "techniques": [
+        {
+          "technique_details": "Usage of PowerTool or a KillAV tool abusing the Zemana AntiMalware driver to terminate AV-related processes was observed.",
+          "technique_id": "T1562.001",
+          "technique_name": "Impair Defenses: Disable or Modify Tools"
+        },
+        {
+          "technique_details": "Uses commands in its operation to modify registries.",
+          "technique_id": "T1112",
+          "technique_name": "Modify Registry"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0006",
+      "tactic_name": "Credential Access",
+      "techniques": [
+        {
+          "technique_details": "Uses Mimikatz, LaZagne, or a command line to dump LSASS from memory.",
+          "technique_id": "T1003.001",
+          "technique_name": "OS Credential Dumping: LSASS Memory"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0007",
+      "tactic_name": "Discovery",
+      "techniques": [
+        {
+          "technique_details": "Uses PCHunter and SharpHound to collect system information.",
+          "technique_id": "T1082",
+          "technique_name": "System Information Discovery"
+        },
+        {
+          "technique_details": "Uses AdFind, Windows net command, and nltest to collect domain information.",
+          "technique_id": "TA0007",
+          "technique_name": "Discovery"
+        },
+        {
+          "technique_details": "Uses Advanced IP Scanner and MASSCAN to discover remote systems.",
+          "technique_id": "T1018",
+          "technique_name": "Remote System Discovery"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0011",
+      "tactic_name": "Command and Control",
+      "techniques": [
+        {
+          "technique_details": "Utilizes AnyDesk, Radmin, Cloudflare Tunnel, MobaXterm, RustDesk, or Ngrok to gain remote access on targeted systems.",
+          "technique_id": "T1229",
+          "technique_name": "Remote Access Software"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0008",
+      "tactic_name": "Lateral Movement",
+      "techniques": [
+        {
+          "technique_details": "Uses RDP to move laterally within the victim's network.",
+          "technique_id": "T1570",
+          "technique_name": "Lateral Tool Transfer"
+        },
+        {
+          "technique_details": "Utilizes remote services for accessing accounts and machines through remote services.",
+          "technique_id": "T1021.001",
+          "technique_name": "Remote Services: Remote Desktop Protocol"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0009",
+      "tactic_name": "Collection",
+      "techniques": [
+        {
+          "technique_details": "Utilizes discovery to gather information for exfiltration.",
+          "technique_id": "T1560.001",
+          "technique_name": "Archive Collected Data: Archive via Utility"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0010",
+      "tactic_name": "Exfiltration",
+      "techniques": [
+        {
+          "technique_details": "Uses RClone to exfiltrate stolen information via a web service.",
+          "technique_id": "T1567.002",
+          "technique_name": "Exfiltration Over Web Service: Exfiltration to Cloud Storage"
+        },
+        {
+          "technique_details": "Utilizes FileZilla or WinSCP to exfiltrate stolen information via FTP.",
+          "technique_id": "T1048.003",
+          "technique_name": "Exfiltration Over Alternative Protocol: Exfiltration Over Unencrypted Non-C2 Protocol"
+        }
+      ]
+    },
+    {
+      "tactic_id": "TA0040",
+      "tactic_name": "Impact",
+      "techniques": [
+        {
+          "technique_details": "Deletes shadow copies to inhibit recovery.",
+          "technique_id": "T1490",
+          "technique_name": "Inhibit System Recovery"
+        },
+        {
+          "technique_details": "Akira ransomware is used to encrypt files.",
+          "technique_id": "T1486",
+          "technique_name": "Data Encrypted for Impact"
+        }
+      ]
+    }
+  ],
+  "type": {
+    "raas": false
+  },
+  "url": "https://www.ransomware.live/group/akira"
+}

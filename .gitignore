@@ -1,0 +1,4 @@
+api_config.ini
+venv/
+.env
+__pycache__/
