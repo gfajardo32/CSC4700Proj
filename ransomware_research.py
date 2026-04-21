@@ -27,7 +27,7 @@ from typing import Optional, Union, List, Dict
 
 # ── Configuration ────────────────────────────────────────────────────────────
 BASE_URL  = "https://api.ransomware.live/v2"
-GROUPS    = ["qilin", "thegentleman", "akira", "incransom", "play"]
+GROUPS    = ["qilin", "thegentlemen", "akira", "incransom", "play"]
 
 # Keywords that suggest a victim belongs to the Manufacturing sector.
 # The API doesn't always return a clean "sector" field, so we use the
@@ -39,7 +39,7 @@ MANUFACTURING_KEYWORDS = [
     "semiconductor", "electronics manufactur", "food processing",
 ]
 
-HEADERS = {"User-Agent": "Mozilla/5.0 (research-script)"}
+HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"}
 REQUEST_DELAY = 1.2   # seconds between API calls to stay under rate limit
 NEWS_LIMIT    = 3     # max news articles to fetch per company
 

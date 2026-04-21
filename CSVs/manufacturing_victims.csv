@@ -1,4 +1,19 @@
 group,victim,attackdate,country,activity,sector,website,description
+qilin,Industrial Carrocera Arbuciense,2026-04-21 19:40:57.988180,ES,Manufacturing,,,N/A
+qilin,Kolin Turkey,2026-04-21 19:40:21.717233,TR,Manufacturing,,,N/A
+qilin,Heartland Steel Products,2026-04-21 18:08:46.641417,US,Manufacturing,,,N/A
+qilin,Safety Engineering Laboratories,2026-04-21 16:33:52.173461,US,Manufacturing,,,N/A
+qilin,Huonker GmbH,2026-04-21 00:00:00.000000,DE,Manufacturing,,,N/A
+qilin,SEL (Safety Engineering Laboratory),2026-04-20 00:00:00.000000,DE,Manufacturing,,,N/A
+qilin,Herth+Buss,2026-04-13 18:37:30.649761,DE,Manufacturing,,,N/A
+qilin,PGDIS.PAPETIQUE PRO,2026-04-13 00:00:00.000000,,Manufacturing,,,N/A
+qilin,Guerin Glass,2026-04-10 20:52:36.321335,US,Manufacturing,,,N/A
+qilin,"HIGASHIYAMA INDUSTRIES Co.,Ltd.",2026-04-09 00:00:00.000000,JP,Manufacturing,,,N/A
+qilin,SERAM SpA,2026-03-31 19:16:48.755467,IT,Manufacturing,,,N/A
+qilin,Dow,2026-03-30 00:00:00.000000,US,Manufacturing,,,N/A
+qilin,Bedrosians Tile & Stone,2026-03-26 17:58:20.506037,US,Manufacturing,,,N/A
+qilin,LP Kolding,2026-03-26 10:14:02.425324,DK,Manufacturing,,,N/A
+qilin,Maderas Del Noroeste,2026-03-26 00:00:00.000000,ES,Manufacturing,,,N/A
 qilin,Groupe SFPI,2026-03-23 17:44:24.307274,FR,Manufacturing,,,N/A
 qilin,Southwire,2026-03-22 19:33:32.198351,US,Manufacturing,,,N/A
 qilin,hollu Systemhygiene,2026-03-18 15:03:53.763292,AT,Manufacturing,,,N/A
@@ -30,8 +45,8 @@ qilin,AMR PEMCO,2026-02-07 13:21:54.876446,US,Manufacturing,,,N/A
 qilin,Mills Products,2026-01-26 04:30:34.173440,US,Manufacturing,,,N/A
 qilin,Centrotherm International,2026-01-25 22:09:19.270023,DE,Manufacturing,,,N/A
 qilin,Milott Laboratories,2026-01-24 05:22:28.667543,TH,Manufacturing,,,N/A
-qilin,Segue Manufacturing Services,2026-01-22 00:00:00:000000,US,Manufacturing,,,N/A
-qilin,YCC Parts Mfg,2026-01-18 00:00:00:000000,,Manufacturing,,,N/A
+qilin,Segue Manufacturing Services,2026-01-22 00:00:00.000000,US,Manufacturing,,,N/A
+qilin,YCC Parts Mfg,2026-01-18 00:00:00.000000,TW,Manufacturing,,,N/A
 qilin,Fluorsid Spa,2026-01-17 07:00:19.154121,IT,Manufacturing,,,N/A
 qilin,Colacem,2026-01-17 06:57:10.931704,IT,Manufacturing,,,N/A
 qilin,Moen,2026-01-15 19:59:16.954175,US,Manufacturing,,,N/A
@@ -46,7 +61,7 @@ qilin,BNZ Materials,2025-12-31 16:20:03.521256,US,Manufacturing,,,N/A
 qilin,SEACSUB S.p.a.,2025-12-29 18:26:58.814289,IT,Manufacturing,,,N/A
 qilin,Sintac Recycling,2025-12-29 14:44:38.660414,ES,Manufacturing,,,N/A
 qilin,Hometech Window,2025-12-26 17:55:21.443922,US,Manufacturing,,,N/A
-qilin,Lynn Electrical,2025-12-25 08:32:23.063395,,Manufacturing,,,N/A
+qilin,Lynn Electrical,2025-12-25 08:32:23.063395,NZ,Manufacturing,,,N/A
 qilin,Acme Electric,2025-12-22 17:57:27.888378,,Manufacturing,,,N/A
 qilin,Besco Electrical,2025-12-22 17:55:08.269069,,Manufacturing,,,N/A
 qilin,National Biscuit Industries,2025-12-22 17:53:42.596879,OM,Manufacturing,,,N/A
@@ -57,7 +72,7 @@ qilin,Vestil Manufacturing,2025-12-10 05:46:29.811681,US,Manufacturing,,,N/A
 qilin,CIDEF Argentina S.A.,2025-12-10 00:00:00.000000,AR,Manufacturing,,,N/A
 qilin,Acoustical Control,2025-12-07 13:53:45.601558,IN,Manufacturing,,,N/A
 qilin,"Sanko Air Conditioning Co., Ltd.",2025-12-07 11:22:57.616212,JP,Manufacturing,,,N/A
-qilin,Diesel Electric,2025-12-06 04:57:36.063664,,Manufacturing,,,N/A
+qilin,Diesel Electric,2025-12-06 04:57:36.063664,ZA,Manufacturing,,,N/A
 qilin,Institutional & Supermarket Equipment,2025-12-04 13:18:37.301384,US,Manufacturing,,,N/A
 qilin,Mainetti UK,2025-12-03 16:54:33.059219,UK,Manufacturing,,,N/A
 qilin,Brodosplit,2025-12-03 13:50:07.340602,HR,Manufacturing,,,N/A
@@ -92,12 +107,12 @@ qilin,Winholt Equipment Group,2025-10-19 00:00:00.000000,US,Manufacturing,,,"Win
 As a multiple-facilities manufacturer, we have the resources to quickly reac            ..."
 qilin,Klima-Therm,2025-10-19 00:00:00.000000,PL,Manufacturing,,,"The Company provides innovative air-conditioning, ventilation, cooling and heating solutions and is rapidly growing its business in the Renewable Energy Sources (RES) segment. The flagship brands distributed by Klima-Therm include: Fujitsu, K            ..."
 qilin,Stephenson's Rental Services,2025-10-19 00:00:00.000000,CA,Business Services,,,"Stephenson's Rental Services is a Canadian construction equipment and tool rental company that has been operating for over 70 years. The company provides a wide range of rentals, including construction equipment, scaffolding, and small tools,            ..."
-qilin,Durvet,2025-10-17 00:00:00:000000,US,Manufacturing,,,N/A
+qilin,Durvet,2025-10-17 00:00:00.000000,US,Manufacturing,,,N/A
 qilin,pcdpackaging.com,2025-10-16 00:00:00.000000,US,Manufacturing,,,"Development of customized industrial packaging. Single-use racks, export packaging, packaging for power units, specialized packaging, packaging for sea containers.
 1.The document is an official bank statement from PCD Packaging de México S.            ..."
 qilin,dalton.com,2025-10-16 00:00:00.000000,,Not Found,,,"Founded in 1986, Dalton Pharma Services is a contract pharmaceutical company providing a full range of development and manufacturing services to pharmaceutical and research companies worldwide.
 1.The document is a bank statement from MUFG Ba            ..."
-qilin,Tong Yang Group,2025-10-15 00:00:00:000000,TW,Manufacturing,,,"Tong Yang Group is a manufacturer of automotive plastics, sheet metal, and cooling products, as well as motorcycle plastics products, molds, and paints. The company was founded in 1952 and is headquartered in Tainan, Taiwan."
+qilin,Tong Yang Group,2025-10-15 00:00:00.000000,TW,Manufacturing,,,"Tong Yang Group is a manufacturer of automotive plastics, sheet metal, and cooling products, as well as motorcycle plastics products, molds, and paints. The company was founded in 1952 and is headquartered in Tainan, Taiwan."
 qilin,Florida Marking Products,2025-10-15 00:00:00.000000,US,Manufacturing,,,"The Kennedy Group, an Inovar company, specializes in providing innovative labeling and packaging solutions that enhance brand visibility. They offer a wide range of high-performance products, including pressure-sensitive labels, warehouse loc            ..."
 qilin,Bay West,2025-10-15 00:00:00.000000,,Not Found,,,"Bay West LLC provides environmental consulting and remediation services for government and commercial enterprises. The company offers services in the areas of industrial storm water permitting and consulting; brownfield site assessment, clean            ..."
 qilin,Buanderie Blanchelle,2025-10-15 00:00:00.000000,CA,Not Found,,,"Buanderie Blanchelle specializes in the provision and maintenance of hospital textile products, offering a comprehensive turnkey service that includes product supply, post-use recovery, and distribution at a single per-kilogram rate. They pro            ..."
@@ -119,8 +134,8 @@ qilin,Artan Holding,2025-10-10 00:00:00.000000,QA,Not Found,,,"Artan Holding is 
 qilin,Midsun Group,2025-10-09 00:00:00.000000,US,Manufacturing,,,"Midsun Group, USA specializes in extending the life of power utility equipment through premium silicone covers and coatings. Their innovative products provide solutions for wildlife intrusion and environmental contamination, enhancing reliabi            ..."
 qilin,kecymetals.com,2025-10-04 00:00:00.000000,US,Manufacturing,,,"Kecy Metal Technologies, USA - Terrible management, outdated equipment, uncompetitive salaries. This is how employees describe working conditions at Kecy Metal Technologies on condition of anonymity. The company was founded in 1988 in Michiga            ..."
 qilin,Beta Dyne,2025-10-03 00:00:00.000000,US,Technology,,,"Beta Dyne, USA - develops and manufactures electrical equipment for the industrial plants, communications и medical. With over 20 years in the power industry, Beta Dyne, Inc. has developed a wide range of unique and high performance power pr            ..."
-qilin,"Asahi Group Holdings, Ltd.",2025-09-28 00:00:00:000000,JP,Agriculture and Food Production,,,"Asahi Group Holdings, Japan - a leading manufacturer of beer and non-alcoholic beverages in Japan. Asahi is headquartered in Sumida, Tokyo. It ranked 593rd on the Forbes Global 2000 list of the world's largest companies in 2023. The company's            ..."
-qilin,Asahi Group Holdings,2025-09-28 00:00:00:000000,JP,Agriculture and Food Production,,,"Asahi Group Holdings, founded in 1889 and headquartered in Tokyo, Japan, is a global food and beverage manufacturer specializing in both alcoholic and non-alcoholic beverages as well as snack products. The company operates across multiple int            ..."
+qilin,"Asahi Group Holdings, Ltd.",2025-09-28 00:00:00.000000,JP,Agriculture and Food Production,,,"Asahi Group Holdings, Japan - a leading manufacturer of beer and non-alcoholic beverages in Japan. Asahi is headquartered in Sumida, Tokyo. It ranked 593rd on the Forbes Global 2000 list of the world's largest companies in 2023. The company's            ..."
+qilin,Asahi Group Holdings,2025-09-28 00:00:00.000000,JP,Agriculture and Food Production,,,"Asahi Group Holdings, founded in 1889 and headquartered in Tokyo, Japan, is a global food and beverage manufacturer specializing in both alcoholic and non-alcoholic beverages as well as snack products. The company operates across multiple int            ..."
 qilin,grupobocel.com,2025-09-25 00:00:00.000000,CO,Not Found,,,"Grupo Bocel is a holding company comprising two companies: La Dominicana Industrial and Molinos Valle del Cibao, located in Santiago de los Caballeros, Dominican Republic.La Dominicana Industrial manufactures and sells pasta, while Molinos Va            ..."
 qilin,oconnorcp.com,2025-09-25 00:00:00.000000,,Not Found,,,"O'Connor Capital Partners is a real estate investment company specializing in retail, office, industrial, residential, and multifamily properties in major cities across North America and Europe. The company was founded in 1983 and is headquar            ..."
 qilin,www.chinup.com.tw,2025-09-23 00:00:00.000000,TW,Not Found,,,"Chinup Technology Co., Taiwan - Chinup specializes in manufacturing Cutting Presses, Die Cutting Machines, Automated Cutting Systems, and Card Processing Machinery. Established in 2001, the company expanded its expertise to include solar modu            ..."
@@ -153,7 +168,7 @@ qilin,welldone.com.tw,2025-08-20 00:00:00.000000,TW,Manufacturing,,,"Welldone Co
 Approved by the Financial Supervisory Commission to conduct financial technology innovation experiments for migrant workers’remittances in 2018.
 Obtai            ..."
 qilin,diversifiedcpc.com,2025-08-18 00:00:00.000000,US,Manufacturing,,,"Diversified CPC International, USA manufactures products whose name is not known to the general public. The company is a world leader in the development, manufacture and distribution of aerosol propellants, hydrocarbon refrigerants, biomass s            ..."
-qilin,Nissan CBI,2025-08-16 00:00:00:000000,JP,Manufacturing,,,"The ""Nissan Creative Box"" refers to a design studio in Tokyo, previously known as a satellite design base for Nissan, and is now part of the larger Nissan design network. 
+qilin,Nissan CBI,2025-08-16 00:00:00.000000,JP,Manufacturing,,,"The ""Nissan Creative Box"" refers to a design studio in Tokyo, previously known as a satellite design base for Nissan, and is now part of the larger Nissan design network. 
 It is located in the Harajuku district of Tokyo. 
 The studio was est            ..."
 qilin,marma.com.pl,2025-08-15 00:00:00.000000,PL,Not Found,,,"MARMA Polskie Folie is one of the largest plastics processors in Europe. The company produces products for agriculture, horticulture, construction and packaging industries. Internally, the company employs more than 1,000 people. On 08/8/25, t            ..."
@@ -189,8 +204,8 @@ Yapı Teknik, with its qua            ..."
 qilin,ProActive Solutions USA,2025-07-15 00:00:00.000000,US,Manufacturing,,,"Based in Green Bay, Wis. ProActive Solutions USA, LLC is a privately held, ISO 9001 company that is a manufacturer of sanitizers, cleaning chemicals and herd health products for the farm and food industries. They are also a distributor of com            ..."
 qilin,WH Rogers Sheet Metal,2025-07-15 00:00:00.000000,US,Manufacturing,,,"WH Rogers Sheet Metal has specialized in the custom fabrication of metal parts for over 50 years, serving the Carolinas with advanced computerized technologies. They offer services based on client designs or with assistance from their CAD dep            ..."
 qilin,pinnacle Roofing and Exteriors,2025-07-13 00:00:00.000000,US,Construction,,,"Pinnacle Roofing and Exteriors, Inc. is a roofing and exteriors company located in Charlotte, NC, specializing in a variety of roofing solutions including metal, slate, and traditional shingles, as well as gutter services and custom metal fab            ..."
-qilin,VM Racing,2025-07-13 00:00:00.000000,,Not Found,,,"VM Racing, is a retail company specializing in sports merchandise and equipment. The company deals with the sale of sporting goods, mainly related to the motorcycle sector.We hacked VM Racing and managed to obtain 1.041.539 files, worth 83GB.            ..."
-qilin,WIBAIE,2025-07-10 00:00:00:000000,IE,Not Found,,,"WIBAIE, a joinery specialist for over 50 years. Based in Cholet (Maine-et-Loire), WIBAIE is a key player in the French window and door market. Our business is 100% dedicated to Building & Housing distribution, and our industrial expertise has            ..."
+qilin,VM Racing,2025-07-13 00:00:00.000000,IT,Not Found,,,"VM Racing, is a retail company specializing in sports merchandise and equipment. The company deals with the sale of sporting goods, mainly related to the motorcycle sector.We hacked VM Racing and managed to obtain 1.041.539 files, worth 83GB.            ..."
+qilin,WIBAIE,2025-07-10 00:00:00.000000,IE,Not Found,,,"WIBAIE, a joinery specialist for over 50 years. Based in Cholet (Maine-et-Loire), WIBAIE is a key player in the French window and door market. Our business is 100% dedicated to Building & Housing distribution, and our industrial expertise has            ..."
 qilin,http://www.balkankalip.com,2025-07-08 00:00:00.000000,TR,Manufacturing,,,"Founded in Istanbul in 1998, Balkan Kalıp is a company that produces molds and mass-produces parts to meet the needs of the automotive industry. With a solution-oriented approach and a vision of sustainable and continuous development, Balkan            ..."
 qilin,Ridewill SRL,2025-07-07 00:00:00.000000,IT,Transportation/Logistics,,,"Ridewill, is a retail company specializing in sports merchandise and equipment. The company deals with the sale of sporting goods, mainly related to the cycling sector. Our team managed to breach Cenomi Retail network. We hacked Ridewill and             ..."
 qilin,volpatoindustrie.it,2025-07-07 00:00:00.000000,IT,Manufacturing,,,"Since 1974, Volpato Industrie has been working with the aim of continuously improving the technical and aesthetic quality of its products. An approach totally oriented towards customer satisfaction that has allowed the company to develop the             ..."
@@ -246,8 +261,8 @@ qilin,Cenomi Retail,2025-05-28 00:00:00.000000,JP,Not Found,,,"Cenomi Retail, fo
 qilin,appotech,2025-05-25 00:00:00.000000,HK,Technology,,,"AppoTech is a semiconductor company who provides one-stop solution in IC design and application development. It was founded in 2003 by Mr. Cheng Cheuk Wing from Silicon Valley in the United States. AppoTech is headquartered in HongKong, and h            ..."
 qilin,Chalmers Suspensions International,2025-05-23 00:00:00.000000,CA,Manufacturing,,,"Chalmers Group is a privately owned corporation with subsidiaries in the U.S. and Canada, offering niche quality products to medical and transportation equipment industries since 1992. For the last 50+ years their high performing suspension p            ..."
 qilin,Berko İlaç Ve Ki̇mya San Aş,2025-05-22 00:00:00.000000,TR,Manufacturing,,,"Pharmacist Berat Beran, who started to work with the thought ""I received education to produce medicine, not to present it"" from the first day of his career, first realised his love of production in his pharmacy. Berat Beran, who later continu            ..."
-qilin,brucknertruck.com,2025-05-20 00:00:00:000000,US,Transportation/Logistics,,,"All data of this company will be available for download on 18.06.2025.Founded in 1932, Bruckners Truck & Equipment offers a wide range of trucks and trailers, semi-trailer repair, and an extensive parts catalog. The company is headquartered i            ..."
 qilin,tennsco.com,2025-05-20 00:00:00.000000,US,Manufacturing,,,"All data of this company will be available for download on 1.06.2025.Founded in 1961, Tennsco manufactures and supplies storage and archiving systems, steel office furniture, industrial and institutional systems, shelving, lockers, and commer            ..."
+qilin,brucknertruck.com,2025-05-20 00:00:00.000000,US,Transportation/Logistics,,,"All data of this company will be available for download on 18.06.2025.Founded in 1932, Bruckners Truck & Equipment offers a wide range of trucks and trailers, semi-trailer repair, and an extensive parts catalog. The company is headquartered i            ..."
 qilin,Centralno grijanje Tuzla,2025-05-19 00:00:00.000000,BA,Manufacturing,,,"The central heating of the city of Tuzla was established in 1977 and since then has provided its users with central heating services that cannot be compared in terms of reliability, quality, and price to any other type of heating in Bosnia an            ..."
 qilin,dcinvestors.com,2025-05-15 00:00:00.000000,,Financial Services,,,"All data of this company will be available for download on 24.06.2025.Duff Capital Investors is a conglomerate of more than 20 companies operating in a variety of sectors, including trucking, tires, automotive, construction, energy and insura            ..."
 qilin,www.bestop.com,2025-05-08 00:00:00.000000,US,Manufacturing,,,"In the shadow of the Rocky Mountain foothills in 1954, Tom Bradley started Bestop in a small upholstery shop in Boulder, Colorado. He envisioned a Jeep top that could easily open up to let in the pine-scented air and warm sun, making his driv            ..."
@@ -270,12 +285,12 @@ qilin,Wildeck Inc,2025-03-27 00:00:00.000000,US,Manufacturing,,,"Over 500 GB of 
 Wildeck, Inc. headquartered in Waukesha, WI, is a subsidiary of Holden Industries, a 100 percent employee-owned company.              ..."
 qilin,Groupe des Industries Métallurgiques,2025-03-24 00:00:00.000000,FR,Manufacturing,,,"All data will be published on Mar.30. The GIM, Groupe des Industries Métallurgiques, is the employers' union for the metal industry, which brings together the vast majority of companies in the metal industry in the Paris region. It is the ma            ..."
 qilin,Luff Industries,2025-03-20 00:00:00.000000,CA,Manufacturing,,,"All data will be available on Mar.27. Luff Industries Ltd. has been manufacturing quality conveyor components, including idlers with patented polymer endcaps and pulleys with an industry-leading rim thickness, to an international market for o            ..."
-qilin,charlesjones.ca,2025-03-19 00:00:00:000000,CA,Not Found,,,"All data of this company will be available for download on 08.04.2025. A family business operating in Canada for more than 60 years we source and supply equipment for a variety of industries, including, agriculture, automotive, construction,             ..."
+qilin,charlesjones.ca,2025-03-19 00:00:00.000000,CA,Not Found,,,"All data of this company will be available for download on 08.04.2025. A family business operating in Canada for more than 60 years we source and supply equipment for a variety of industries, including, agriculture, automotive, construction,             ..."
 qilin,SMC Corporation,2025-03-17 00:00:00.000000,JP,Manufacturing,,,"SMC EU, the European division of the Japanese company SMC founded in 1959, specializes in developing and manufacturing cutting-edge solutions in pneumatics and automation. With two technical centers in the UK and Germany and a team of 1,700 e            ..."
 qilin,Worldlawn Power Equipment,2025-03-17 00:00:00.000000,US,Manufacturing,,,"Based in Beatrice, Nebraska, Worldlawn Power Equipment emphasizes quality machines at a great value. Worldlawn Power Equipment manufactures outdoor power equipment that currently includes professional and residential lawnmowers and snow throw            ..."
 qilin,Ricardo Rodriguez,2025-03-15 00:00:00.000000,CL,Not Found,,,"Ricardo Rodríguez & Cía. Ltda. - is a company engaged in the import and distribution of computer accessories and equipment, which sells its products through distributors and private companies. And also very bad about the security of its cus            ..."
 qilin,"Yushin America, Inc",2025-03-12 00:00:00.000000,US,Manufacturing,,,"Yushin America, Inc. was established in 1988 to support North American sales. Yushin America has 70,000 sq. feet dedicated to manufacturing robots and custom downstream automation. Design; fabrication; assembly; runoff; testing; final packagi            ..."
-qilin,The Komec,2025-03-08 00:00:00.000000,,Not Found,,,"What makes Komec truly unique is that its vision and philosophy are not just empty statements that serve no purpose. As the driving force of both factory and product, our two essential values of reliability and honesty, are shared by the enti            ..."
+qilin,The Komec,2025-03-08 00:00:00.000000,BE,Not Found,,,"What makes Komec truly unique is that its vision and philosophy are not just empty statements that serve no purpose. As the driving force of both factory and product, our two essential values of reliability and honesty, are shared by the enti            ..."
 qilin,prelco.ca,2025-03-07 00:00:00.000000,CA,Manufacturing,,,"All data will be published on Mar. 15. Prelco Inc. is a manufacturer of high-performance and specialty glass for architectural applications, specialized vehicle glazing, and glass components for the manufacturing sector. Prelco was founded in            ..."
 qilin,Wheels and Deals,2025-03-07 00:00:00.000000,,Not Found,,,"Wheels and Deals is a FREE 112 page automotive magazine located in Central Illinois. We are a local, family owned publishing group that’s been established since 1978. Wheels and Deals Magazine is published weekly and offered FREE at over 1,            ..."
 qilin,bpmmicro.com,2025-02-28 00:00:00.000000,US,Technology,,,"All data of this company will be available for download on 11.03.2025. BPM Microsystems manufactures high-performance, high-quality, and cost-effective device programmers and accessories for programmable semiconductor devices. The company has            ..."
@@ -304,10 +319,10 @@ qilin,liftsolutionsinc.net,2025-01-23 00:00:00.000000,US,Manufacturing,,,"For ov
 qilin,HIKARI SEIKO,2025-01-18 00:00:00.000000,JP,Manufacturing,,,"HIKARI SEIKO CO. LTD., a Japan based top manufacturer of universal joints and precision automotive parts such as universal joints and oil jets. 
 Since its establishment in 1947, HIKARI SEIKO CO., LTD. have been committed to the development o            ..."
 qilin,Wannemacher Enterprises Inc,2025-01-12 00:00:00.000000,US,Transportation/Logistics,,,"Wannemacher Enterprises Inc  aka Wannemacher Total Logistics was established in 1991 as a local trucking operation and has expanded over the years to a leader in transportation, warehousing, distribution, contract packaging, and liquid fillin            ..."
-qilin,Galvatech,2025-01-12 00:00:00.000000,,Not Found,,,"Galvatech is a family-owned business that has been servicing the steel industry in Sydney Central West for 40 years, specializing in hot dip galvanizing to the AS/NZS 4680:2006 standard. Known for its efficiency and reliability, the company o            ..."
+qilin,Galvatech,2025-01-12 00:00:00.000000,AU,Not Found,,,"Galvatech is a family-owned business that has been servicing the steel industry in Sydney Central West for 40 years, specializing in hot dip galvanizing to the AS/NZS 4680:2006 standard. Known for its efficiency and reliability, the company o            ..."
 qilin,"Bulverde Glass, Inc.",2025-01-03 00:00:00.000000,US,Manufacturing,,,"Bulverde Glass, Inc. was established in 1992 just outside the city of San Antonio in small-town Bulverde, but as the city has grown and expanded over the years, so has Bulverde Glass. In fact, we outgrew the small town of Bulverde and moved i            ..."
 qilin,Helitek Company Ltd.,2024-12-25 00:00:00.000000,TH,Not Found,,,"Helitek Company Ltd. manufactures silicon wafers. The Company's products include prime wafers, single and double side polished wafers, test wafers, silicon ingots, dopants, and backside treatments. Helitek sells its products in the United Sta            ..."
-qilin,HEXPOL COMPOUNDING AMERICAS,2024-12-22 00:00:00:000000,US,Manufacturing,,,"Complete irresponsibility and very poor IT level of HEXPOL COMPOUNDING AMERICAS (HCA) leads to that publication.
+qilin,HEXPOL COMPOUNDING AMERICAS,2024-12-22 00:00:00.000000,US,Manufacturing,,,"Complete irresponsibility and very poor IT level of HEXPOL COMPOUNDING AMERICAS (HCA) leads to that publication.
 Data from all departments (Finance, HR, Accounting, Engineering, Logistics, Production, Purchasing, Quality, Safety, Recipe Cont            ..."
 qilin,www.clubcar.com,2024-12-22 00:00:00.000000,US,Manufacturing,,,"Club Car boasts a 60+ year history of industry-leading innovation and design, initially focused on golf cars and then expanding to commercial utility vehicles and personal-use transportation.
 
@@ -367,13 +382,228 @@ qilin,Madero,2024-04-06 13:31:32.981739,CA,Hospitality and Tourism,,,"Madero is 
 qilin,ptsmi.co.id,2024-03-21 22:31:38.207187,ID,Manufacturing,,,"Financing & Investment. Infrastructure financing activities include financing carried out based on sharia principles given to private parties, State-Owned Enterprises, Regional-Owned Enterprises, and Regional Governments as regulated in appli            ..."
 qilin,hawita-gruppe,2024-03-05 11:48:43.862631,DE,Agriculture and Food Production,,,"Thanks to a consistent corporate policy, a lot of know-how and first-class employees, we have developed into one of the premium manufacturers of products for modern horticulture in the course of the more than 100 years of company history. Our            ..."
 qilin,Great Lakes Technologies,2023-12-04 17:51:16.900365,,,,,"Great Lakes Technologies & Manufacturing LLC promotes a culture of innovation and is committed to eliminating waste, costly duplication of efforts and production start-up problems for our customers. We accomplish this by providing proprietary            ..."
-qilin,Yanfeng,2023-11-13 00:00:00:000000,,,,,"Yanfeng is a leading global automotive supplier, focusing on interior, exterior, seating, cockpit electronics, and passive safety, and is exploring new business actively. Yanfeng has more than 240 locations and approximately 57,000 employees             ..."
+qilin,Yanfeng,2023-11-13 00:00:00.000000,,,,,"Yanfeng is a leading global automotive supplier, focusing on interior, exterior, seating, cockpit electronics, and passive safety, and is exploring new business actively. Yanfeng has more than 240 locations and approximately 57,000 employees             ..."
 qilin,GYP New Tree SA,2023-08-28 11:40:16.166441,AR,,,,"GYP NEW TREE SA is a wholesale importer operating in the market since 1998, marketing brands that are synonymous with excellence and innovation. We integrate the value chain of these brands, either with local assembly of PCs and AIOs, or with            ..."
 qilin,Daiwa House Industry Co.,2023-06-22 22:02:44.404830,JP,,,,"Daiwa House Industry Co., Ltd. is Japan's largest homebuilder, specializing in prefabricated houses. The company is also engaged in the construction of factories, shopping centers, health care facilities, the management and operation of resor            ..."
 qilin,Printmarksolution,2023-06-19 12:59:56.891893,,,,,"Distributor of production date, expiry date, barcode, lot number, quality products imported from Europe by a team of professionals with more than 15 years of experience in industrial printing. we are committed to providing quality service, at            ..."
 qilin,gslelectric.com,2023-06-13 11:34:00.000000,US,Construction,,,"All data of this company will be available for download on 16.05.2025. GSL Electric Inc. performs a wide range of projects for public and private clients, including commercial, industrial, institutional, manufacturing, utility, transmission l            ..."
 qilin,"Clarity Water Technologies, LLC",2023-06-08 10:00:30.396408,,,,,"Clarity Water Technologies specializes in comprehensive industrial and commercial water treatment that includes expert consulting and cutting-edge chemistry, as well as a full service team to support facility needs .   Some of the data take            ..."
 qilin,Contempo Card,2022-11-09 11:20:29.018593,,,,,"Vark Sr worked with his father in the jewelry manufacturing business in Rhode Island. In the 80’s, Providence, RI was the jewelry capital of the world, and everyone wanted a piece of the jewelry pie. Vark Sr noticed something odd: while the            ..."
+thegentlemen,Suma Sklep,2026-04-19 12:40:45.000000,PL,Consumer Services,,,"Suma24.pl is a Polish B2B online store specializing in professional cleaning products, catering equipment, and hygiene systems for the HoReCa (Hotel, Restaurant, Catering) and food industry sectors. It is operated by Suma Service, a family-owned company founded in 1995 and headquartered in Koszalin,"
+thegentlemen,El Ordeno,2026-04-15 11:31:29.000000,EC,Agriculture and Food Production,,,"elordeno.com zoominfo.com/c/el-ordeño/363579816 El Ordeño (Sociedad Industrial Ganadera El Ordeño S.A.) is an Ecuadorian agro-industrial dairy company founded in 2001, headquartered in Quito, Pichincha Province. It operates an inclusive and associative business model that connects over 6,000 small "
+thegentlemen,Disk Precision,2026-04-15 11:25:56.000000,SG,Manufacturing,,,"diskprecision.com zoominfo.com/c/disk-precision-group/11452653 Disk Precision Group (DP Group) is a Singapore-headquartered precision engineering company founded in 1986, specializing in CNC Turning and Milling of high-precision metal components. With manufacturing sites across Southeast Asia (Singa"
+thegentlemen,Greenpharma,2026-04-15 11:23:43.000000,BR,Healthcare,,,"greenpharma.com.br zoominfo.com/c/greenpharma-química-e-farmacêutica-eireli/558034818 Greenpharma Química & Farmaceutica is a Brazilian pharmaceutical manufacturer founded in 1989 in Anapolis, Goiás, acquired in 1995 by industrial pharmacist Eduardo Gonçalves. The company produces generic and OTC "
+thegentlemen,UK Electronics,2026-04-14 10:29:04.196929,GB,Manufacturing,,,"ukelectronics.co.uk zoominfo.com/c/uk-electronics-ltd/51921022 UK Electronics specializes in the manufacture of high-quality electronic assemblies, offering a comprehensive range of services including PCB assembly, mechanical assembly, and testing. With over 40 years of experience, they provide full"
+thegentlemen,BRC Biotechnology,2026-04-14 10:26:32.958178,,Healthcare,,,"brcbiotech.com BRC Biotechnology is a biopharmaceutical contract development and manufacturing company that strictly adheres to GMP standards from China, the USA, and Europe. It holds certifications including EU GMP QP compliance, US FDA FEI registration, and ISO 9001:2015, offering professional ris"
+thegentlemen,Verzinkerei Rentrop,2026-04-14 10:25:44.863923,DE,Manufacturing,,,"verzinkerei-rentrop.de zoominfo.com/c/verzinkerei-rentrop-gmbh/1103509945 Verzinkerei Rentrop GmbH is a German industrial company founded in 1929 in Plettenberg, NRW, specializing in steel surface treatment — primarily hot-dip galvanizing, electrogalvanizing, and phosphatizing. The company also prod"
+thegentlemen,Hangzhou Industrial,2026-04-14 10:25:21.550119,CN,Manufacturing,,,"hztrust.com zoominfo.com/c/hangzhou-industrial--commercial-trust-co-ltd/430077414 Hangzhou Industrial & Commercial Trust (hztrust.com) is a state-owned Chinese financial firm founded in 1986, headquartered in Hangzhou with offices in Shanghai and Beijing. It operates as a joint venture with Morgan S"
+thegentlemen,******.***,2026-04-14 10:24:32.445163,,Not Found,,,"Largest manufacturer ranked #* globally, ~ $1.2B revenue (2025), operates in 140+ countries, 60,000+ partners, ships 10M+ ****** annually, invests 12% of revenue in R&D, with factories in **** and ***."
+thegentlemen,Aichi Electric,2026-04-08 15:35:33.603136,JP,Manufacturing,,,"aichidenki.jp zoominfo.com/c/aichi-electric-co-ltd/425347408 Aichi Electric Co., Ltd., founded in 1942 and headquartered in Kasugai, Aichi Prefecture, Japan, is a publicly listed manufacturer of power equipment and industrial motors. The company produces transformers, distribution switchgear, contro"
+thegentlemen,Tapon Corona,2026-04-08 15:35:06.423795,MX,Manufacturing,,,"taponcorona.com.mx Tapon Corona S.A. de C.V. is a Mexican manufacturer based in Azcapotzalco, Mexico City, specializing in world-class crown caps (metal bottle caps) for beer and soft drink brands. The company is part of Grupo Zapata and operates alongside subsidiaries producing aluminum cans (Jalis"
+thegentlemen,Ravands Plastech,2026-04-08 15:34:16.605366,,Manufacturing,,,"ravands.com zoominfo.com/c/ravands-plastech/347934317 Ravands Plastech is an Indian manufacturer based in Chittoor, Andhra Pradesh, founded in 2002 by a farmer's son with a mission to solve irrigation challenges for local farmers. The company produces thermoplastic ball valves, gate valves, non-retu"
+thegentlemen,Thai Rung Union Car,2026-04-08 15:31:29.974695,TH,Transportation/Logistics,,,thairung.co.th zoominfo.com/c/thai-rung-union-car-public-company-ltd/104628554 Thai Rung Union Car Public Company Limited focuses on providing high-quality automotive solutions tailored for the Thai market. The company emphasizes constant innovation and sustainable development in its operations. It 
+thegentlemen,Thai Special Gas,2026-04-08 15:30:37.363014,TH,Energy,,,"tsgco.co.th zoominfo.com/c/thai-special-gas-co-ltd/454621538 Thai Special Gas (TSG) specializes in providing high-quality industrial and energy gases, onsite gas generators, refrigerants, and related equipment. The company is dedicated to delivering exceptional customer service and integrated soluti"
+thegentlemen,DGS,2026-04-08 15:27:38.002663,,Not Found,,,"dgsts.com DGS Technical Services is a structural steel and mechanical engineering firm that has been providing comprehensive design, detailing, and 3D modeling services since 2004. Based in Elgin, Illinois, they serve a variety of industrial and commercial clients, including those in the semiconduct"
+thegentlemen,EMCO Holding,2026-04-08 15:27:13.388368,DE,Manufacturing,,,"emcoholding.com Grupo EMCO Holding is a conglomerate of prestigious companies operating in different areas, guided by a philosophy of excellence and responsibility, with significant investments in Central America. In recent years, the group has diversified and has strongly positioned itself in field"
+thegentlemen,Anderlues,2026-04-08 00:00:00.000000,BE,Manufacturing,,,"Anderlues.be is the official website of the municipality of Anderlues, a small town in the province of Hainaut, Wallonia, Belgium, with a population of approximately 12,000 residents and an area of 17 km². The site serves as the main digital portal for local government services, including an e-count"
+thegentlemen,AIRCOS,2026-04-04 22:48:42.352056,FR,Transportation/Logistics,,,"aircospascual-anjac.com rocketreach.co/aircos-profile_b5cafd62f42e1406 Aircos Pascual is a French industrial cosmetics manufacturer and part of the ANJAC Group, specializing in hybrid makeup technologies — loose powders, hot-cast formulas, lip fluids, and foundation fluids. With 300 employees, 25 R&"
+thegentlemen,Zanzi,2026-04-04 22:48:18.626253,IT,Not Found,,,"zanzi.com rocketreach.co/zanzi-spa-profile_b420e827fee433b4 Zanzi S.p.A. is an Italian engineering company founded in 1920 by Giovanni Zanzi in Ivrea, Turin, recognized as a global leader in high-performance valve manufacturing for engines. The company serves the aeronautical, motor racing, motorbik"
+thegentlemen,Das Labor,2026-04-04 22:47:54.605868,DE,Not Found,,,daslabor.eu zoominfo.com/c/friedrich-holzweber/549578383 is an Austrian private medical and chemical diagnostic laboratory led by Dr. Margit Striednig-Zechner and Dr. Beatrix Sterz. The lab offers a dedicated online ordering system called Cyberlab for referring physicians and healthcare professional
+thegentlemen,Gaposa,2026-04-04 22:46:31.954524,ES,Manufacturing,,,"gaposa.it zoominfo.com/c/gaposa-srl/372820509 Founded in 1969, Gaposa has persevered from its first years of activity in a constant R&D policy in order to anticipate market changes. With a number of patents and a 100% Italian production, Gaposa has strengthened its position as one of the leaders in "
+thegentlemen,UCPS,2026-04-04 22:44:51.662206,TH,Public Sector,,,"ucpsthai.com United Creation Packaging Solutions (Thailand) Co., Ltd (UCPS) is a leading large-scale integrated packaging and printing company based in Thailand, established in 1994. It is recognized as Asia's largest packaging company and holds the prestigious title of No. 1 in Forest and Paper Pro"
+thegentlemen,GEM Terminal,2026-04-01 00:00:00.000000,TW,Technology,,,"gem.com.tw zoominfo.com/c/gem-terminal-industry-co-ltd/46452181 Gem Terminal Ind. Co., Ltd. is engaged in the manufacture and sale of terminals used for electronic communication, automobile transportation and electrical plugs. The Company also offers ceramic ferrules, bushings and modules. During th"
+thegentlemen,Jati Tinggi,2026-03-26 09:29:57.000000,ID,Manufacturing,,,"jatitinggi.com zoominfo.com/c/jati-tinggi-holding-sdn-bhd/399353498 Jati Tinggi Group Berhad, founded in 2003 and headquartered in Cheras, Selangor, Malaysia, is a publicly listed infrastructure utilities engineering company (KLSE: JTGROUP). The company specialises in underground and overhead utilit"
+thegentlemen,Sunspray Food,2026-03-26 09:22:40.000000,ZA,Agriculture and Food Production,,,"sunspray.co.za zoominfo.com/c/sunspray-food-ingredients-ltd/425184083 Sunspray Solutions (Pty) Ltd, founded in 1944 and headquartered in Johannesburg, South Africa, is the country's largest independent manufacturer of spray-dried food ingredients. The company operates 10 spray dryers across two manu"
+thegentlemen,Cosmo Group,2026-03-26 09:19:25.000000,TH,Not Found,,,"cosmo.co.th zoominfo.com/c/cosmo-group-public-co/459326707 Cosmo Group PCL, founded in 1964 and headquartered in Bangkok (Sukhumvit), is a Thai luxury packaging manufacturer with over 60 years of experience. The company specializes in premium gift boxes, displays, watch dials, cases, and accessories"
+thegentlemen,Sgt,2026-03-26 09:13:27.000000,FR,Business Services,,,"sgt-pet.com zoominfo.com/c/sgt/370244282 SGT founded in 1981 and based in France, is a specialist in PET and RPET packaging . The company designs and manufactures PET/RPET preforms (mono- and multi-layer), HDPE caps, and bottles for the beverage and industrial sectors . With over 200 employees, 26 i"
+thegentlemen,Distritech,2026-03-23 09:39:49.000000,US,Not Found,,,"distritech.com zoominfo.com/c/distritech-llc/358799326 DISTRITECH LLC offers a wide range of consumer electronics and accessories, including audio and video equipment, computers, cameras, mobility devices, gaming products, wearables, smart home solutions, and home living items. The company targets t"
+thegentlemen,Omikenshi,2026-03-23 09:38:22.000000,JP,Manufacturing,,,"omikenshi.co.jp zoominfo.com/c/omikenshi-co-ltd/372144961 Omikenshi specializes in the production of textiles, including cotton and yarn, as well as advanced processing technologies. The company also offers a range of lifestyle products, cosmetics, and software development services. Their intended c"
+thegentlemen,Groupe Caddac,2026-03-21 11:54:52.000000,CA,Not Found,,,"groupe-caddac.com Groupe CADDAC is a French construction materials company founded in 1962, specializing in ready-mix concrete (RMC), prefabricated concrete elements, aggregates, and building materials. Headquartered in Donges, Pays de la Loire, the group operates 19 concrete plants along France's A"
+thegentlemen,2LG Prod,2026-03-18 08:09:51.000000,FR,Not Found,,,"2lg-prod.com zoominfo.com/c/2lg-prod/532401614 2LG PROD S.r.l. is an Italian company specializing in the design and production of professional cleaning machines and floor maintenance equipment. They offer a wide range of products including scrubber dryers, sweepers, and vacuum cleaners for industria"
+thegentlemen,GPAINNOVA,2026-03-18 08:08:14.000000,ES,Technology,,,"gpainnova.com zoominfo.com/c/gpainnova/467953270 GPAINNOVA is a leading tech company specializing in surface finishing machinery for metal polishing and medical device manufacturing. They are also known for their innovative power electronics and energy storage systems. With a strong global presence,"
+thegentlemen,Kabelovna Kabex,2026-03-16 10:35:16.000000,CZ,Telecommunication,,,"kabex.cz rocketreach.co/kabelovna-kabex-as-profile_b5947399f662772e Kabelovna Kabex is a Czech special cable manufacturer founded in 1994 . The company specializes in cables for nuclear power plants (including LOCA-cables), hermetic cable penetrations, and power cables up to 30 kV . Kabex is a key s"
+thegentlemen,ControlGMC,2026-03-12 21:58:58.000000,CA,Manufacturing,,,"controlgmc.com zoominfo.com/c/controlgmc/346496163 Control GMC specializes in designing and manufacturing fully automatic food packing machines and cup filling lines. Their versatile equipment is suitable for various food products, including sauces, cheeses, and salads, and can handle a wide range o"
+thegentlemen,Sodimatel Fasteners,2026-03-09 09:45:36.000000,FR,Manufacturing,,,sodimatel.eu zoominfo.com/c/sodimatel-fasteners-sa/430245612 Sodimatel Fasteners provides business services. Contact them directly for more information about their offerings
+thegentlemen,Nenplas,2026-03-09 09:42:14.000000,GB,Manufacturing,,,"nenplas.co.uk zoominfo.com/c/nenplas-ltd/1115375413 Nenplas is a leading UK manufacturer specializing in bespoke plastic extrusion products, offering a wide range of extruded and fabricated plastic profiles. With over 40 years of experience and more than 3,000 existing tools, they provide quick and "
+thegentlemen,Malia Group,2026-03-06 19:14:46.000000,LB,Manufacturing,,,"maliagroup.com zoominfo.com/c/malia-group/347685476 Malia Group is a multifaceted organization comprising 21 companies that operate across six sectors, including consumer goods distribution, technology solutions, fashion, engineering and contracting, and hospitality and real estate. With a strong pr"
+thegentlemen,Reanthong Partcenter,2026-03-04 12:16:27.000000,TH,Not Found,,,"rtvalve.com zoominfo.com/c/reanthong-partcenter-co-ltd/393312914 Reanthong Partcenter Co., Ltd. is a prominent manufacturer in Thailand specializing in LPG Cylinder Valves, Brass Fittings, and Gas Accessories with over 32 years of expertise. The company focuses on research and development, manufactu"
+thegentlemen,Comtec 2000,2026-03-04 12:10:11.000000,RO,Not Found,,,"comtec-int.ro zoominfo.com/c/comtec-2000-inc/459031613 COMTEC 2000 INC specializes in high-quality electrical products and professional equipment for industrial applications, catering to the needs of demanding clients. Their offerings include a wide range of electrical devices, lighting solutions, a"
+thegentlemen,Special Shapes Refractory,2026-03-01 17:28:54.000000,US,Manufacturing,,,"ssrco.com zoominfo.com/c/special-shapes-refractory-company-inc/1132759207 Special Shapes Refractory Company (SSRC) is a leader in providing high-quality precast shapes and monolithic materials primarily for the glass, steel, and other industrial manufacturers. They focus on minimizing downtime and e"
+thegentlemen,Labtician Ophthalmics,2026-03-01 17:27:50.000000,CA,Healthcare,,,labtician.com zoominfo.com/c/labtician-ophthalmics-inc/139985585 Labtician Ophthalmics specializes in manufacturing and selling advanced surgical and therapeutic ophthalmology products. The company aims to enhance patients' visual health by providing effective tools and solutions for various eye con
+thegentlemen,All India Minerals,2026-03-01 17:26:03.000000,IN,Agriculture and Food Production,,,"allindiaminerals.com zoominfo.com/c/all-india-minerals/470618608 All India Minerals is India's largest manufacturer of Washed Sand and Graded Silica Sand, established in 1969. The company employs advanced technologies and strict quality controls to produce high-quality silica sand for various indust"
+thegentlemen,Amata,2026-02-26 16:13:19.000000,TH,Manufacturing,,,"amata.com zoominfo.com/c/amata-corporation-public-company-ltd/2754121 Amata Corporation PCL. is a leading industrial estate developer in Southeast Asia, providing full-service industrial parks for global manufacturing companies. They focus on creating sustainable and innovative industrial environmen"
+thegentlemen,Sando Tech,2026-02-26 14:12:34.000000,US,Not Found,,,"sando.co.jp datanyze.com/companies/sando-tech/539005226 SANDO TECH, Inc. specializes in the development, design, manufacturing, and sales of machinery. The company offers a range of products including testing machines, repair services, and consumable parts orders. Their intended clients include busi"
+thegentlemen,OCEANIST ENGINEERING,2026-02-25 12:39:07.000000,IN,Manufacturing,,,"oceanist.com.tr zoominfo.com/c/oceanist-engineering/437571327 Oceanist Engineering Ltd. is a supplier of ship equipment based in Istanbul, established in 2001. The company specializes in the development, promotion, and distribution of high-quality solutions for the Marine Offshore and Onshore indust"
+thegentlemen,Wachendorff,2026-02-24 18:40:41.000000,DE,Manufacturing,,,"wachendorff.de zoominfo.com/c/wachendorff-gebäude/368536587 Wachendorff Unternehmensgruppe specializes in the development and manufacturing of encoders and measurement systems, providing reliable solutions for rotary and linear measurement tasks. They also offer industrial electronics and automatio"
+thegentlemen,Dos,2026-02-24 18:08:41.000000,TH,Not Found,,,"dos.co.th thammasorn.co.th zoominfo.com/c/dos-corp/448308416 DOS Life specializes in water management solutions, offering a range of products including water storage tanks, wastewater treatment systems, and various water-related equipment. Their services cater to both residential and industrial clie"
+thegentlemen,Industrias Iberia,2026-02-24 17:57:19.000000,ES,Manufacturing,,,"industriasiberia.com zoominfo.com/c/industrias-iberia/371428987 Industrias Iberia is a food production company that takes food safety seriously. They work hard to make sure every food product they create and sell meets the highest safety standards. From processing to packaging, the team checks each "
+thegentlemen,Pollo Cibao,2026-02-17 13:49:02.000000,DO,Agriculture and Food Production,,,"pollocibao.com zoominfo.com/c/pollo-cibao/430156004 Pollo Cibao is a company engaged in the production, incubation, raising, fattening, processing of poultry, and manufacturing of animal feed. Founded over 20 years ago in the Dominican Republic, it employs more than 1,800 direct employees and around"
+thegentlemen,Oceania Gas Chemicals & Related Products,2026-02-15 15:21:59.000000,,Energy,,,"oceaniagas.com zoominfo.com/c/oceania-gas-ltd/414947891 Oceania Gas specializes in providing a wide range of gases including medical gases, industrial gases, and various gas mixtures. They offer an extensive selection of welding equipment, safety PPE, refrigerants, and tools for diverse applications"
+thegentlemen,Global Group,2026-02-15 15:15:48.000000,IN,Not Found,,,"globalgroup.co.in zoominfo.com/c/global-group/437399408 Global Group is a leading construction and real estate company based in Pune, specializing in industrial development and turnkey solutions. With over 15 years of experience, they offer services such as Industrial Park Development, Built-to-Suit"
+thegentlemen,Smart Glass,2026-02-13 16:13:12.000000,,Technology,,,"smartglassco.com zoominfo.com/c/smart-glass/348631137 Smart Glass specializes in innovative glass processing technology and operates a state-of-the-art factory located in El Fayoum, Egypt. Their facility spans 40,000 square meters and is equipped with the latest advanced equipment from leading manuf"
+thegentlemen,Yash Highvoltage Insulators Pvt,2026-02-13 16:01:39.000000,IN,Manufacturing,,,"yashhv.com zoominfo.com/c/yash-highvoltage-insulators-pvt-ltd/536504217 Yash Highvoltage Ltd. is a leading Indian manufacturer specializing in advanced high voltage and high current transformer bushing solutions, with a global presence and over 40,000 product installations. The company offers a rang"
+thegentlemen,Clark Foam Products,2026-02-11 20:35:49.000000,US,Manufacturing,,,"clarkfoam.net zoominfo.com/c/clark-foam-products-corp/25809475 Clark Foam Products is a specialized foam fabricator with over five decades of experience serving various industries, including aerospace, automotive, medical, and packaging. They offer a diverse range of high-quality foam products such "
+thegentlemen,NFT Technology,2026-02-10 15:31:05.000000,TW,Technology,,,"nft.com.tw zoominfo.com/c/nft-technology-co-ltd/447009402 NFT Technology Co Ltd is a company that operates in the Chemicals & Related Products industry. It employs 250to499 people and has 50Mto100M of revenue. The company is headquartered in Gangshan Dist., Kaohsiung City, Taiwan."
+thegentlemen,Smartply Europe,2026-02-10 15:10:43.000000,IE,Manufacturing,,,"smartply.com zoominfo.com/c/smartply-europe-ltd/1148020571 MEDITE SMARTPLY is a leading manufacturer of sustainable timber construction panels, recognized for its award-winning brands MEDITE and SMARTPLY. The company offers a range of engineered products including moisture resistant and flame retard"
+thegentlemen,Novetex Textiles,2026-02-06 18:44:19.000000,HK,Manufacturing,,,"novetex.com zoominfo.com/c/novetex-textiles-ltd/105432365 Established in 1976 and part of the Novel Group, Novetex Textiles Limited is a leader in the textile industry, specializing in sustainable fiber and yarn development. The company excels in creating high-quality yarns and fashion collections t"
+thegentlemen,CPQ Ingenieros,2026-02-06 18:37:08.000000,ES,Not Found,,,"cpqingenieros.com zoominfo.com/c/cpq-ingenieros/404026171 specializes in the design of process plants across various sectors including chemical, pharmaceutical, biotechnological, food, and cosmetic industries. Their services encompass basic processes, detailed engineering, project management, constr"
+thegentlemen,Nishiyama Seisakusho,2026-02-06 17:43:48.000000,JP,Not Found,,,"nishiyama-ss.co.jp zoominfo.com/c/nishiyama-seisakusho-co-ltd/482975122 Nishiyama Seisakusho Co., Ltd. specializes in the production of precision machinery and components, particularly focusing on high-quality manufacturing since its establishment in 1949. The company offers a range of products incl"
+thegentlemen,Silvi SRL,2026-02-06 17:26:44.000000,IT,Not Found,,,"silvi.it Silvi SRL, established in 1990, specializes in advanced industrial automation solutions, offering a range of products including palletizing systems, depalletizing systems, and special machines. The company serves various sectors such as metal packaging, pet food, automotive, chemical and ph"
+thegentlemen,Wieson Technologies,2026-02-02 00:00:00.000000,TW,Technology,,,"www.wieson.com https://www.zoominfo.com/c/wieson-technologies-co-ltd/128565406 Wieson Technologies specializes in the design and manufacturing of connectors and cable assemblies, with a focus on super high-speed technology and wireless communications. Their product range includes interconnect compon"
+thegentlemen,Nobel Hygiene Pvt,2026-01-31 20:53:44.000000,IN,Manufacturing,,,"www.nobelhygiene.com https://www.zoominfo.com/c/nobel-hygiene-pvt-ltd/348701217 Nobel Hygiene is a leading manufacturer of disposable hygiene products in India, specializing in adult and baby diapers, as well as women's hygiene products. With over 20 years of experience, the company serves more than"
+thegentlemen,Handsome Manufacturing,2026-01-31 20:50:18.000000,,Manufacturing,,,"www.handsomegroup.com https://www.zoominfo.com/c/handsome-manufacturing-company-ltd/348223586 HANDSOME was established in 1968 in Hong Kong, with expertise in manufacturing OEM plastic items like toys and gifts. Handsome Industrial Company, Limited is a veteran OEM manufacturer that operates as a cr"
+thegentlemen,Gady Family,2026-01-25 00:00:00.000000,AT,Not Found,,,"gady.at zoominfo.com/c/gady-family/431055072 Gady Family is a prominent automotive and agricultural machinery dealer in southeastern Austria, offering a wide range of new and used vehicles including brands like BMW, MINI, Opel, and Toyota. The company also specializes in agricultural machinery and p"
+thegentlemen,SASI JSC,2026-01-20 19:06:02.000000,VN,Not Found,,,"sasi.vn - SASI (Saigon Auto Supporting Industry JSC) is a Vietnamese industrial manufacturing company operating via the domain sasi.vn, focused on large-scale OEM production.SASI is a long-established manufacturer, founded in the 1970s, with production facilities located in Ho Chi Minh City (Cu Chi "
+thegentlemen,WRP Asia Pacific Sdn Bhd,2026-01-20 17:52:08.000000,MY,Manufacturing,,,"www.wrpworld.com https://www.zoominfo.com/c/wrp-asia-pacific-sdn-bhd/346914589 WRP is one of the world's leading manufacturing and distributing groups producing premium quality gloves for the medical, dental, food and critical environment market. Headquartered in Malaysia, WRP's manufacturing facili"
+thegentlemen,Magen Eco Energy,2026-01-20 17:51:03.000000,IL,Energy,,,"www.magen-ecoenergy.com https://www.zoominfo.com/c/magen-eco-energy/346848999 MAGEN eco-ENERGY, an Israeli-based global manufacturer of renewable energy solutions, is the parent company of the Magen International Group. In the nearly forty years since the company was founded, MAGEN eco-ENERGY has gr"
+thegentlemen,Orlík Compressors,2026-01-20 17:47:03.000000,CZ,Manufacturing,,,"www.orlik.cz https://www.zoominfo.com/c/orli%CC%81k-compressors/399403693 Orlik specializes in the production and sale of compressors and related accessories, offering a range of piston, screw, and spiral compressors, as well as dryers and pneumatic tools. Their products are designed for industrial "
+thegentlemen,PAO HWA TRADING LTD,2026-01-19 21:08:01.000000,TW,Not Found,,,"https://www.paohwa.com/ PAO HWA TRADING CO., LTD is a leading Taiwanese importer and distributor of comprehensive cutting tools for industries including automotive, aerospace, electronics, and mold manufacturing. The company serves as a general agent for brands such as Japan's KYOCERA and a distribu"
+thegentlemen,Real Tech,2026-01-11 18:01:31.000000,CA,Not Found,,,https://www.realtech-eg.com Real Tech for the manufacture of electrical and household appliances. A leading company in the manufacture of electrical and household appliances. Real Tech was established in Egypt in 2010 with the help of young people with a high level of technical experience and the hi
+thegentlemen,Wamtechnik,2026-01-07 11:33:34.000000,PL,Technology,,,"www.wamtechnik.pl https://www.zoominfo.com/c/wamtechnik-ltd/398138337  Wamtechnik specializes in the production and distribution of batteries and accumulator packs, focusing on lithium-ion technology and other battery types for industrial applications. The company offers tailored battery solutions a"
+thegentlemen,Röben Tonbaustoffe GmbH,2026-01-02 16:22:12.443111,DE,Manufacturing,,,"https://www.roeben.com https://www.zoominfo.com/c/ro%CC%88ben/430636767 Röben specializes in building ceramics, offering a wide range of products including roofing tiles, clinker bricks, and ceramic floor tiles. The company serves architects, contractors, and homeowners, providing not only products "
+thegentlemen,Usina Sao Jose Do Pinheiro,2025-12-24 09:21:23.000000,BR,Agriculture and Food Production,,,"www.usjp.com.br https://www.zoominfo.com/c/usina-sao-jose-do-pinheiro/465258703 Located in the municipality of Laranjeiras, Sergipe State, the São José do Pinheiro Sugar Mill is a century-old company that provides excellent service in the commercialization and manufacture of sugar, alcohol, molasses"
+thegentlemen,Dongguan HYX Industrial,2025-12-08 00:00:00.000000,CN,Manufacturing,,,"https://en.hoyxn.com https://hyx.manufacturer.globalsources.com/homepage_6008838389834.htm https://www.facebook.com/Cables.Speakers/ https://freshdi.com/supplier/Dongguan-HYX-Industrial-Co-Ltd--DblXWk 25+ Years of Manufacturing Experience Founded in 1998, HYX (Dongguan HYX Industrial Co., Ltd.) is a"
+thegentlemen,Everbiz Industrial Co. Ltd.,2025-11-29 00:35:37.000000,TW,Not Found,,,"www.everbiz.com.tw https://www.zoominfo.com/c/everbiz-industrial-co-ltd/456233474 Since that time, we have manufactured thousands of assemblies for a wide variety of industrial. Many biggest 1000 companies have come to rely on our unique process to fulfill their requirements. This diverse manufactur"
+thegentlemen,Talarico,2025-11-24 16:06:22.000000,IT,Not Found,,,www.talaricosrl.it https://www.zoominfo.com/c/talarico-srl/533118720  Talarico SRL has 30 years of experience in thermohydraulics and technological systems. The company boasts a well-stocked retail sales counter and has completed large industrial installations. Its extensive showroom features the be
+thegentlemen,A***-****.com,2025-11-17 10:59:02.000000,,Not Found,,,🇨🇳 Semiconductor industry
+thegentlemen,************.com,2025-11-16 23:35:28.000000,,Not Found,,,🇨🇳 Semiconductor industry
+thegentlemen,Astra Otoparts / PT. Inti Ganda Perdana,2025-10-03 19:01:03.000000,ID,Manufacturing,,,Stock Symbol AUTO.JK www.astra-otoparts.com http://www.igpgroup.astra.co.id https://www.zoominfo.com/c/pt-astra-otoparts-tbk/344291036 https://rocketreach.co/pt-inti-ganda-perdana-profile_b5c1ba2ff42e08d3 20 billion USD revenue. Astra Otoparts is an Indonesia-based manufacturing company. The Company
+thegentlemen,Proplastics,2025-09-09 16:03:13.748488,ZW,Manufacturing,,,"www.proplastics.co.zw , https://www.zoominfo.com/c/proplastics-ltd/395663229 Proplastics is a leading supplier of world class plastic pipe systems for water and sewer reticulation to SouthernAfrica. Established in 1965, Proplastics has 50 years of experience in the industry and has grown and evolved"
+thegentlemen,Dolidol,2025-09-09 15:53:18.978683,MA,Not Found,,,"www.dolidol.ma , https://www.zoominfo.com/c/dolidol/426056693 Established in 1972, Dolidol is one of the oldest mattress manufacturers in Morocco and a leading player in thghout Morocco, perceived as being higher-end with better quality products. Dolidol manufactures and sells polyurethane foam, mat"
+thegentlemen,LOCATION PEINTURES PRESTATIONS (LPP),2025-09-04 23:14:13.000000,FR,Not Found,,,"Créée en 1991, la société LOCATION PEINTURES PRESTATIONS (LPP) est une société française dont le siège social est situé en Ile-de-France, au cœur de l'Essonne. Initialement spécialisée dans la peinture anti-corrosion et autres prestations, LPP s'est professionnalisée dans la conception, la fabricati"
+thegentlemen,Saelen/Heizomat,2025-09-01 20:50:43.000000,FR,Manufacturing,,,"www.saelen.fr www.saelen-energie.fr https://www.zoominfo.com/c/saelen/457994561 https://www.zoominfo.com/c/heizomat-france---saelen-energie/476105707 Découvrez les broyeurs de branches et de végétaux Saelen. Demandez une démonstration et découvrez les broyeurs Eliet, les tondeuses Walker et Wessex, "
+thegentlemen,Hydrometrics,2025-08-25 00:00:00.000000,US,Manufacturing,,,"www.hydrometrics.com https://www.zoominfo.com/c/hydrometrics-inc/18513967 Hydrometrics, Inc. is a Montana-based company that offers professional scientific and engineering services to industrial, commercial, municipal, and private sectors throughout the United States. With over 40 years of experienc"
+thegentlemen,"Narumi (Thailand) Co.,Ltd.",2025-08-19 09:28:17.000000,TH,Manufacturing,,,"NARUMI (THAILAND) CO., LTD. is a subsidiary of Narumi Goukin Manufacturing Co., Ltd. of Japan, established in June 2010 and located in the WHA Eastern Seaboard Industrial Estate, Rayong, Thailand. The company specializes in the manufacturing of plastic automotive components such as door handles, tai"
+thegentlemen,Laboratorio Clinico Santa Rita,2025-08-14 19:44:18.000000,CR,Healthcare,,,"Santa Rita Laboratorios offers a wide range of medical laboratory services, including hematology, immunology, microbiology, and molecular biology. The company is committed to preserving health through accurate diagnostics and operates with state-of-the-art technology and high-resolution equipment. T"
+thegentlemen,AB Mauri Private,2025-07-05 03:16:51.000000,IN,Manufacturing,,,"www.abmauri.in https://www.zoominfo.com/c/a-b-mauri-india-private-ltd/1131488896 A B Mauri India Private Ltd is a company that operates in the Food & Beverage industry. It employs 100to249 people and has 25Mto50M of revenue. The company is headquartered in Ernakulam North, Kerala, India. Daughter co"
+thegentlemen,JN Aceros,2025-06-30 20:38:44.000000,CO,Manufacturing,,,"www.jnaceros.com.pe, https://www.zoominfo.com/c/jn-aceros/455686474, JN Aceros is a company that operates in the HR & Staffing industry. It employs 50to99 people and has 100MMto250M of revenue. The company is headquartered in San Luis, Lima region, Peru."
+thegentlemen,Cremona Inoxidable,2025-06-27 00:35:06.000000,AR,Manufacturing,,,"www.creminox.com , https://www.zoominfo.com/c/cremona-inoxidable-sa/359162083 Cremona Inoxidable S.A. specializes in manufacturing equipment and systems for the food industry, particularly focusing on products for the processing lines of meat and sausages. Their offerings include multiple molding sy"
+thegentlemen,Kuwait Portland Cement,2025-06-27 00:10:59.000000,KW,Manufacturing,,,"www.portlandkw.co , https://www.zoominfo.com/c/kuwait-portland-cement-co/372134369 Stock Symbol = PCEM Kuwait Portland Cement Company specializes in the trading, importing, and exporting of various types of bulk cement and its packaging. The company is involved in establishing and managing warehouse"
+thegentlemen,"JIEI (Thailand) Co., Ltd",2025-06-24 00:00:00.000000,TH,Not Found,,,"https://jieithai.com JIEI (Thailand) Co., Ltd. was founded in November 2011 as a member company of the Kasei Kogyo Co., Ltd. group. Active in business since 1966, the Kasei Kogyo group, with a core focus on rubber extrusion for automobile use, has arrived at the present together with the development"
+thegentlemen,Ophtazon,2025-02-19 00:00:00.000000,FR,Not Found,,,"https://www.zoominfo.com/c/ophtazon/457685589 https://www.ophtazon.com OPHTAZON, the first medical equipment platform dedicated to ophthalmology, links doctors or clinics wishing to sell their equipment with potential buyers whatever the equipment put up for sale or the geographical situation of the"
+thegentlemen,Flavor Producers,2025-02-19 00:00:00.000000,US,Agriculture and Food Production,,,"https://flavorproducers.com/ https://www.zoominfo.com/c/flavor-producers-inc/23530808 Flavor Producers is a leading manufacturer specializing in organic, natural, and plant-based flavors and extracts. The company focuses on creating new taste experiences tailored for food, nutrition, and beverage ap"
+thegentlemen,HSR Specialist Researchers,2025-02-19 00:00:00.000000,GB,Not Found,,,"hsr.specialistresearchers.com.br https://www.zoominfo.com/c/hsr-specialist-researchers/372422527 HSR Specialist Researchers is the largest independent market research company in Brazil, offering specialized research services across various sectors including automotive, education, finance, healthcare"
+thegentlemen,BioNet-Asia,2025-02-19 00:00:00.000000,TH,Healthcare,,,"https://bionet-asia.com/ https://www.zoominfo.com/c/bionet-asia-co-ltd/346273011 BioNet is a vaccine manufacturer focused on developing recombinant and mRNA vaccines to combat respiratory diseases and other public health challenges globally. With over 25 years of experience, BioNet has successfully "
+thegentlemen,Hart,2025-02-19 00:00:00.000000,,Not Found,,,"https://hartphp.com.pl https://www.zoominfo.com/c/hart-sp-zoo/469629635 HART was founded in 1990 specialize in the wholesale of parts and accessories for passenger cars, vans and motorcycles, also offering workshop equipment and electric scooters. In addition to goods from renowned suppliers, HART a"
+thegentlemen,Hog Slat,2025-02-19 00:00:00.000000,US,Manufacturing,,,"https://www.zoominfo.com/c/hog-slat-inc/48483868 https://www.zoominfo.com/c/hog-slat-inc/406568064 Hog Slat, Inc. is the largest contractor and producer of equipment for hog farmers in the United States, employing approximately 1,000 direct employees and an additional 1,400 subcontractors for constr"
+thegentlemen,Abatix,2025-02-19 00:00:00.000000,US,Manufacturing,,,"https://www.zoominfo.com/c/abatix-corp/99255 www.abatix.com Foundeded in 1983, Abatix is a supplier of products for the general construction, industrial safety, petrochemical, energy, environmental, hospital, fire and water restoration, and disaster response industries supporting customers across th"
+thegentlemen,PT Pupuk Iskandar Muda,2024-04-03 00:00:00.000000,ID,Manufacturing,,,"www.pim.co.id https://www.zoominfo.com/c/pt-pupuk-iskandar-muda/372769605 PT Pupuk Iskandar Muda is a chemical manufacturing company based in Lhokseumawe, Aceh. As a subsidiary of PT PIHC, they focus on producing two key agricultural products: urea and ammonia fertilizers. Their factory helps farmer"
+akira,Alva Manufacturing,2026-04-21 00:00:00.000000,,Manufacturing,,,"Alva Manufacturing specializes in CNC precision machining, focusi
+ng on milling and multi-axis turning for high-tech industries suc
+h as defense and space. They utilize state-of-the-art automated m
+achining centers and advanced measuring technology, including Hex
+agon CMM and Keyence systems.
+
+We wi"
+akira,Fletcher Chrysler Products,2026-04-15 00:00:00.000000,,Manufacturing,,,"Fletcher Chrysler Dodge Jeep Ram is a dealership located in Frank
+lin, IN, offering a wide selection of new and used Chrysler, Dodg
+e, Jeep, and Ram vehicles. They serve clients in Franklin, Indian
+apolis, Shelbyville, and surrounding areas, providing assistance 
+in vehicle purchasing, financing opt"
+akira,INDESMALLA,2026-04-14 00:00:00.000000,AR,Manufacturing,,,"Indesmalla is a family business with two production plants, one w
+ith raschel machines and the other with Ketten machines. It produ
+ces knitted weft (circular) fabric and knitted and finished weft 
+fabrics in different weights, draws and elasticity.
+
+We will upload corporate data soon. Personal data"
+akira,Newman & Marquez,2026-04-09 00:00:00.000000,,Not Found,,,"Sehlmann Fensterbau GmbH specializes in wooden and wood-metal win
+dows in the Hamburg metropolitan area. They offer optimal window 
+solutions for innovative new constructions and stylish renovation
+s, providing services from consultation and planning to productio
+n and installation.
+
+We will upload "
+akira,Sehlmann Fensterbau,2026-04-09 00:00:00.000000,DE,Manufacturing,,,"Sehlmann Fensterbau GmbH specializes in wooden and wood-metal win
+dows in the Hamburg metropolitan area. They offer optimal window 
+solutions for innovative new constructions and stylish renovation
+s, providing services from consultation and planning to productio
+n and installation.
+
+We will upload "
+akira,Shingle & Gibb Automation,2026-04-09 00:00:00.000000,,Manufacturing,,,"Shingle & Gibb Automation follows a time-honored commitment of pr
+oviding the finest Industrial Automation & Networking, Motion Con
+trol, Machine Safety and Power Transmission products from world l
+eading manufacturers, including Siemens, Banner Engineering, Turc
+k and Rittal.
+
+We will upload 25gb o"
+akira,Adrian Jules,2026-04-07 00:00:00.000000,,Not Found,,,"Adrian Jules Ltd. specializes in the design, manufacturing, and w
+holesaling of custom clothing made in America, focusing on bespok
+e garments crafted by hand. The company offers a range of men's c
+lothing styles and provides a private label service for those loo
+king to create their own luxury clot"
+akira,Gauthier Connectique,2026-04-06 00:00:00.000000,FR,Manufacturing,,,"Gauthier Connectique makes specialized connectors for both civili
+an and military aircraft. They're experts at creating precise con
+nection parts that keep planes safely linked together.
+
+We will upload 42gb of corporate data soon. Employee scanned docs
+(passport, DLs and so on), drawings and specif"
+akira,Aqua-Serv© Engineers,2026-04-06 00:00:00.000000,,Business Services,,,"Aqua-Serv Engineers, Inc. is one of the largest independent regio
+nal industrial water treatment companies in the United States, he
+adquartered in Fontana, California. They provide a wide range of 
+water treatment products and services to various industries, incl
+uding healthcare, government, food a"
+akira,"American Vintage Home, Briggs Plumbing Products, Genco Manufacturing, American Vintage Hom...",2026-04-03 00:00:00.000000,US,Manufacturing,,,"We obtained about 11gb of data of the following companies:
+
+American Vintage Home specializes in heating, air conditioning, a
+nd plumbing services tailored for vintage homes in the Chicago No
+rth Shore area. Their expert technicians focus on preserving the 
+charm of older homes while providing moder"
+akira,Woodland Trade,2026-04-03 00:00:00.000000,US,Not Found,,,"Woodland Trade Company is a full-service tool design and manufact
+uring firm based in Tacoma, Washington, specializing in tool desi
+gn and fabrication using composites, metals, and 3D printed hardw
+are. The company serves a diverse range of industries including a
+erospace, automotive, marine, medica"
+akira,Serap,2026-04-02 00:00:00.000000,FR,Not Found,,,"SERAP is an independent company and opened up its capital to empl
+oyees on a voluntary basis. Today more than 90% of SERAP employee
+s are company shareholders. SERAP operates an ambitious developme
+nt strategy on every continent and is currently the 1st largest w
+orld manufacturer of on-farm milk co"
+akira,Swagelok,2026-04-01 00:00:00.000000,US,Manufacturing,,,"Swagelok is a worldwide leader in industrial fluid system manufac
+turing and support. Since the introduction of the revolutionary, 
+leak-tight Swagelok® tube fitting in 1947, they have applied a pa
+ssion for making high-quality products and an unwavering focus on
+meeting customer needs to help a wid"
+akira,Builtrite,2026-04-01 00:00:00.000000,,Not Found,,,"Northshore Manufacturing offers 3 main product lines that are mar
+keted under the Builtrite Brand. The company also produce compone
+nts for several O.E.M.'s and tackle custom projects within the co
+mpany's realm of expertise.
+
+We will upload 40gb of corporate data soon. Detailed employee pas
+sports,"
+akira,Dean Supply,2026-03-31 00:00:00.000000,US,Consumer Services,,,"Dean Supply specializes in providing a comprehensive range of res
+taurant supplies and equipment, including kitchenware, dining ess
+entials, and janitorial products. 
+
+We will upload 15gb of corporate data soon. Employee medical info
+rmation and other docs, NDAs, financials, projects, contracts and
+"
+akira,Cox Design & Metal Fabrication,2026-03-31 00:00:00.000000,US,Manufacturing,,,"Cox Design and Metal Fabrication, Inc. specializes in custom meta
+l design and fabrication, offering a wide range of services inclu
+ding aluminum fabrication, architectural steel design, and custom
+food trucks.
+
+We will upload 20gb of corporate data soon. Employee personal doc
+ument, financials, pro"
+akira,Frontier Technologies,2026-03-27 00:00:00.000000,,Technology,,,"New Frontier Technologies (NFT) is a system integrator specializi
+ng in bridging the gap between industrial automation and business
+data, providing solutions such as SCADA systems, PLCs, remote op
+erations, and cyber security. Their services cater to a variety o
+f sectors, including oil and gas, dis"
+akira,Quality Carton and Converting,2026-03-27 00:00:00.000000,US,Manufacturing,,,"Quality Carton and Converting, LLC. specializes in food and bever
+age paperboard packaging, offering both in-stock items and custom
+folding carton solutions. Their product range includes various t
+ypes of bakery and donut boxes, pizza boxes, cupcake inserts, and
+utility trays.
+
+We will upload corpor"
+akira,Axiomatic Technologies Corporation,2026-03-27 00:00:00.000000,US,Technology,,,"Axiomatic Technologies is a quality designer and manufacturer of 
+electronic controllers and power management converters Robust and
+reliable electronic controls optimize working machines for perfo
+rmance and emission control. Axiomatic Technologies is located in
+Canada.
+
+We will upload 10gb of corpo"
 akira,French Engineering,2026-03-24 00:00:00.000000,FR,Manufacturing,,,"French Engineering offers a range of services in Traffic Engineer
 ing, Water Resources Engineering, and Sustainable Planning and De
 sign Consulting in Pennsylvania, West Virginia, and Maryland. The
@@ -1774,13 +2004,6 @@ ne including Roller Mills, Pulverizers, Hammer Mills, Primary & S
 econdary Crushers, Impact Dryer Mills, Impact Crushers, Refuse Sh
 redders, Shear Shredders, Nife Hogs, Nife Granulators, Wood Hogs,
 Chippers, Apron Pan Feeders, Feeder "
-akira,Elite Advanced Laser Corporation,2025-05-16 00:00:00:000000,TW,Technology,,,"Elite Advanced Laser Corporation (eLASER ), headquarter
-ed in Chung Ho Dist, New Taipei City, Taiwan, is a EMS 
-(Electronic Manufacturing Service) service of advanced 
-optoelectronic and RF component for information , optic
-al and RF communication.
-
-You will find more than 90 GB of essential corpora"
 akira,Termignoni SpA,2025-05-15 00:00:00.000000,IT,Manufacturing,,,"Termignoni SpA designs and creates motorbike exhaust systems for 
 use at the highest levels.
 
@@ -1808,7 +2031,7 @@ service, consulting and security services.
 
 We are going to upload more than 15 GB of corporate data (10gb SQ
 Ls). A lot of employees personal information, NDAs, confid"
-akira,Myers Automotive Group,2025-05-10 00:00:00:000000,CA,Business Services,,,"Myers Automotive Group sales and services automobiles. The company is headquartered in Ottawa, Ontario. Files of this company willbe available for downloading soon. Agreements, clients and employees information, detailed accounting and other data."
+akira,Myers Automotive Group,2025-05-10 00:00:00.000000,CA,Business Services,,,"Myers Automotive Group sales and services automobiles. The company is headquartered in Ottawa, Ontario. Files of this company willbe available for downloading soon. Agreements, clients and employees information, detailed accounting and other data."
 akira,Selenis (Evertis is also involved),2025-05-08 00:00:00.000000,PT,Manufacturing,,,"Selenis is part of the IMG Group, a family-owned multinational wi
 th presence in the polymers industry since 1959. Selenis is a pre
 mium supplier of innovative copolyesters for a diverse range of a
@@ -2242,12 +2465,19 @@ n contactless, EMV, chip cards, and personalization.
 We are ready to upload a lot of private corporate documents such 
 as: confidential agreements and contracts, driver licenses, finan
 cial data (audits, payment details, reports), c"
-akira,Unicorr Packaging Group,2025-01-26 00:00:00:000000,US,Manufacturing,,,"Unicorr is among the largest converters of custom corrugated prod
+akira,Unicorr Packaging Group,2025-01-26 00:00:00.000000,US,Manufacturing,,,"Unicorr is among the largest converters of custom corrugated prod
 ucts and protective packaging in the Northeast.
 
 We are ready to upload more than 90 GB of essential corporate doc
 uments such as: financial data (audits, payment details, reports)
 , corporate NDA’s, contact numbers and e-mail address"
+akira,Elite Advanced Laser Corporation,2025-01-19 00:00:00.000000,TW,Technology,,,"Elite Advanced Laser Corporation (eLASER ), headquarter
+ed in Chung Ho Dist, New Taipei City, Taiwan, is a EMS 
+(Electronic Manufacturing Service) service of advanced 
+optoelectronic and RF component for information , optic
+al and RF communication.
+
+You will find more than 90 GB of essential corpora"
 akira,Chain And Rope SuppliersLTD,2025-01-17 12:18:47.239336,IE,Manufacturing,,,"Started over 40 years ago, Chain And Rope Suppliers has
 grown from a specialist supplier of lifting equipment 
 to Ireland's leading lifting controls and safety specia
@@ -2600,7 +2830,7 @@ We have made the process of downloading company data as
 simple as possible for our"
 akira,HOERBIGER Holding,2024-08-21 13:46:57.834492,CH,Manufacturing,,,"Hoerbiger Holding AG is a globally active group headquartered in  Zug, Switzerland. 50GB of files to be released soon. Employee per sonal information, clients and customers information, confidentia l agreements, contracts, NDAs, some medical files. Lots of accoun ting and financial data. "
 akira,North Georgia Brick,2024-08-20 14:04:29.251169,US,Manufacturing,,,"North Georgia Brick offers a diverse selection of bricks, pavers, and stone veneer for residential and commercial projects. 10Gb o f data will be released soon. Employee documents, contracts and a greements, detailed accounting and finance information. "
-akira,ShoreMaster,2024-08-05 00:00:00:000000,US,Manufacturing,,,"ShoreMaster is a customer-focused, market driven company manufact
+akira,ShoreMaster,2024-08-05 00:00:00.000000,US,Manufacturing,,,"ShoreMaster is a customer-focused, market driven company manufact
 uring quality products safely and efficiently. We got about 15Gb 
 of data. We will release it soon. Confidential files, agreements,
 employee files with personal data, lists with SSNs and many othe
@@ -2614,12 +2844,12 @@ akira,Electroalfa,2024-07-24 14:36:48.761462,RO,Manufacturing,,,"Electroalfa is 
 akira,CALDAN Conveyor,2024-07-24 13:09:24.327169,DK,Manufacturing,,,"CALDAN Conveyor is a worldwide leading, Danish supplier of overhe ad conveyor and floor conveyor systems. All the dat awill be rele ased soon. Banking information, transactions details, agreements, clients and everything else. "
 akira,Sigma,2024-07-11 16:33:42.292132,,Not Found,,,"SIGMA is a California based, leading manufacturer of luxury & bes poke custom faucets, shower systems & accessories. Projects infor mation, some employee data, payments details. Everything will be  uploaded soon. "
 akira,Allied Industrial Group,2024-07-08 16:34:25.100498,,Manufacturing,,,"Allied Industrial Group is committed to providing world class pro ducts with service and support through the use of product knowled ge, product availability and application expertise to our ever ex panding customer base. 15GB of data will be provided. Confidentia l agreements, NDAs, employees person"
-akira,Alimac,2024-07-03 16:38:02.508528,,Manufacturing,,,"Alimac is focused on packaging innovations and state-of-the art o f packaging machines. Alimac mainly deals with beverage packaging . 20GB of data will be released. Financial data, HR forms, projec t details and so on. "
+akira,Alimac,2024-07-03 16:38:02.508528,DE,Manufacturing,,,"Alimac is focused on packaging innovations and state-of-the art o f packaging machines. Alimac mainly deals with beverage packaging . 20GB of data will be released. Financial data, HR forms, projec t details and so on. "
 akira,Power Lube Industrial,2024-06-28 17:20:59.632137,,Manufacturing,,,"Power Lube Industrial is a leading Tier-1 supplier of industrial  lubrication equipment solutions and a pioneer in the automatic lu brication business. All files we got from them will be available  here soon. Numerous financial data, bank details, transactions, p rojects, customer information, agree"
 akira,Gallos Metal Solutions,2024-06-26 12:35:39.256120,,Manufacturing,,,"Gallos Metal Solutions Inc specializes in continuous mesh belt at mosphere heat treating. Employees personal files, NDAs, agreement s, financial data and other internal business files. "
 akira,Beckett Thermal Solutions,2024-06-25 18:16:40.375465,,Manufacturing,,,"Beckett Thermal Solutions is a global pioneer of combustion techn ologies. 11 Gb of data. Lots of projects files, employees names,  addresses, emails and other HR information. "
 akira,Agron (Five Ten) Adidas TERREX,2024-06-24 22:11:20.816076,,Business Services,,,"Five Ten or Agron is a German manufacturer of mountain biking, cl imbing, and trail hiking shoes. Originally an American brand foun ded in California in 1985 by Charles Cole, Five Ten became one of the top-selling climbing shoe manufacturers worldwide by October 2011. Adidas purchased the company in"
-akira,Lindermayr,2024-06-19 14:48:11.798236,,Not Found,,,"Quality awareness, reliability and technical innovation have char acterized the Lindermayr company for more than 50 years. They ope rate in the independent business areas of building construction,  civil engineering, transportation, prefabrication, gravel works a nd haulage services guarantees you c"
+akira,Lindermayr,2024-06-19 14:48:11.798236,DE,Not Found,,,"Quality awareness, reliability and technical innovation have char acterized the Lindermayr company for more than 50 years. They ope rate in the independent business areas of building construction,  civil engineering, transportation, prefabrication, gravel works a nd haulage services guarantees you c"
 akira,Duplo USA,2024-06-13 00:00:00.000000,US,Manufacturing,,,"Duplo USA Corporation is the leading provider of innova
 tive print finishing solutions for the graphic arts ind
 ustry. 
@@ -2746,6 +2976,14 @@ aho.
 You will find a lot of customers contacts with phones a
 nd addresses, internal financial documents, inside corp
 orate correspo"
+incransom,rheem,2026-04-20 20:00:00.000000,US,Manufacturing,,,"Rheem Manufacturing Company   1100 Abernathy Road, Suite 1700 Atlanta, GA 30328, United States www.rheem.com  is a well-established manufacturer specializing in heating, cooling, and water heating products. Founded in 1925, the company has its headquarters in Atlanta, Georgia, and has grown to"
+incransom,alupco.com,2026-04-17 09:18:00.000000,SA,Manufacturing,,,"ALUPCO is the Middle East's largest aluminium extruder, established in 1975, offering a diverse range of high-quality extruded profiles and comprehensive building solutions. The company specializes in project management, architectural solutions, and modular buildings, catering to clients across vari"
+incransom,BERGE-BAU GmbH & Co. KG,2026-04-03 10:00:00.000000,DE,Construction,,,"Berge-Bau is a German family-run construction firm operating since 1875, specializing in structural engineering, civil engineering, pipeline construction, and turnkey projects. Celebrating its 150th anniversary, the company serves industrial and residential clients from its Erndtebrück headquarters "
+incransom,martek co ltd.,2026-04-01 11:01:00.000000,TW,Manufacturing,,,https://www.martek.com.tw/en 700gb NDA 
+incransom,millersteelelaw.com,2026-03-30 09:00:00.000000,US,Not Found,,,"At Miller & Steele Law Firm, we believe in protecting and fighting for those who have been affected by the negligence of others. David Miller started this firm in 1978 to fight for those who could not fight their own battle. When he was a young man, he saw a family member involved in a lawsuit who w"
+incransom,"Conveyors, Inc.",2026-03-30 00:00:00.000000,US,Manufacturing,,,"Conveyors, Inc. is a family-owned manufacturer of bulk material handling equipment, established in 1974, with over 40 years of experience in the industry. The company offers a wide range of products including screw conveyors, bucket elevators, and drag conveyors, designed to efficiently handle bulk "
+incransom,glenmarkpharma.com,2026-03-25 15:00:00.000000,IN,Healthcare,,,"Glenmark Pharmaceuticals, founded in 1977 and headquartered in Mumbai, India, is a global pharmaceutical company that develops, manufactures, and markets pharmaceutical products. The company operates in over 25 countries across North America, South America, Europe, Asia, Africa, and the Middle East,"
+incransom,pulpdent.com,2026-03-25 11:54:00.000000,US,Healthcare,,,"PULPDENT® Corporation is a family-owned dental research, manufacturing company and leader in bioactive and biomimetic dental materials. ACTIVA BioACTIVE, developed by Pulpdent, is a bioactive restorative material that behaves much like natural teeth and helps stimulate the formation of apatite, chem"
 incransom,Kiswire,2026-03-23 21:30:00.000000,KR,Manufacturing,,,"Kiswire Ltd. 37 Gurak-ro 141beon-gil Suyeong-gu Busan, 48212 South Korea www.kiswire.com   is a prominent player in the specialty steel wire industry, headquartered in Busan, South Korea. Founded in 1945, the company has established itself as a global leader, manufacturing a wide range of ste"
 incransom,JDV Products,2026-03-23 01:00:00.000000,US,Not Found,,,"JDV Products, Inc. specializes in providing a wide range of tools and equipment for wire wrapping, including wire wrap guns, wrap tools, and wire handling solutions. The company also features a selection of gas-powered tools and fiber optic tools, ensuring comprehensive support for electrical proje"
 incransom,csi-ri.com,2026-03-10 15:35:00.000000,US,Not Found,,,"Contractors Supply stocks and distributes only top quality products and materials that conform to the latest DOT, ASTM, and Federal Specifications. In addition, the company only partner with manufacturers and representatives who stand behind their products and prove to be invaluable resources in pro"
@@ -2875,10 +3113,15 @@ incransom,"King Aerospace, Inc.",2023-12-12 01:08:43.457719,,,,,"King Aerospace,
 incransom,Pro Metals LLC,2023-11-23 08:35:26.093419,,,,,"When John Olivarez and a business partner started Pro Metals in 2007 it was located in a small 2,400 square foot building in Kansas City, Kansas. Mr. Olivarez took sole ownership of Pro Metals in..."
 incransom,Trylon TSF Inc.,2023-11-23 08:34:30.314225,,,,,"Trylon has been supplying innovative, cell site steel infrastructure, as well as site acquisition, engineering services, installation and technical services for wireless networks since the..."
 incransom,Universal Sewing Supply Inc,2023-10-31 21:03:55.399553,US,,,,"Universal Sewing Supply was founded in 1956 in St. Louis, Missouri. Universal Sewing Supply provides industrial sewing equipment, supplies, and parts as well as air line components, valves, air hoses..."
-incransom,Yamaha Motor Philippines,2023-10-25 00:00:00:000000,PH,Manufacturing,,,Yamaha Motor Philippines Inc. - Explore the number one automatic motorcycle in the Philippines!
+incransom,Yamaha Motor Philippines,2023-10-25 00:00:00.000000,PH,Manufacturing,,,Yamaha Motor Philippines Inc. - Explore the number one automatic motorcycle in the Philippines!
 incransom,Elemetal,2023-09-18 20:35:17.707414,,,,,Elemetal is one of the largest precious metals refiner. They are laundering money for drug cartel and can't find a small amount to prevent data leak. Cost of their privacy is $160.000. 600GB of...
 incransom,************,2023-09-18 17:33:58.909323,,,,,************ one of the largest precious metals refiner. they are laundering money for drug cartel and can't find a small amount to prevent data leak. we will name company on Friday if there will be...
 incransom,Pifer's Auction & Realty,2023-08-31 11:32:35.933111,,,,,"Pifer's Auction & Realty is a full service auction and real estate firm specializing in land auctions, machinery auctions, and land management."
+play,Brokk,2026-03-24 00:00:00.000000,SE,Manufacturing,,,Sweden
+play,Specflue,2026-03-23 00:00:00.000000,GB,Manufacturing,,,United Kingdom
+play,Witt UK Group,2026-03-21 00:00:00.000000,GB,Manufacturing,,,United Kingdom
+play,Valley Plating Inc,2026-03-20 00:00:00.000000,US,Manufacturing,,,United States
+play,TPIS Industrial Services,2026-03-18 00:00:00.000000,US,Manufacturing,,,United States
 play,Eagle Industrial Equipment,2026-03-07 00:00:00.000000,,Manufacturing,,,United States
 play,Design To Print,2026-03-06 21:17:23.053768,US,Manufacturing,,,United States
 play,Select Tool,2026-03-06 21:16:44.704248,CA,Manufacturing,,,Canada
@@ -2928,13 +3171,13 @@ play,Baum Precision Machining,2025-09-05 00:00:00.000000,US,Manufacturing,,,Unit
 play,Mayors Machine Works,2025-09-02 00:00:00.000000,US,Manufacturing,,,United States
 play,Royal Machine & Tool,2025-08-29 00:00:00.000000,US,Manufacturing,,,United States
 play,Arboris,2025-08-27 00:00:00.000000,US,Manufacturing,,,United States
-play,Cool Wind Ventilation,2025-08-26 00:00:00:000000,,Manufacturing,,,United States
+play,Cool Wind Ventilation,2025-08-26 00:00:00.000000,,Manufacturing,,,United States
 play,Anderson Aluminum,2025-08-19 00:00:00.000000,US,Manufacturing,,,United States
 play,Greenscape Pump Services,2025-08-14 21:35:40.025700,US,Manufacturing,,,United States
 play,Rising Star Hydraulics,2025-08-06 00:00:00.000000,US,Manufacturing,,,United States
 play,CFI Tire Service,2025-08-04 00:00:00.000000,US,Manufacturing,,,United States
 play,Jamco Aerospace,2025-08-03 00:00:00.000000,JP,Manufacturing,,,United States
-play,Phoenix Lighting,2025-07-31 00:00:00:000000,US,Manufacturing,,,United States
+play,Phoenix Lighting,2025-07-31 00:00:00.000000,US,Manufacturing,,,United States
 play,White Horse Packaging,2025-07-28 00:00:00.000000,,Manufacturing,,,United States
 play,IMSSA Manufacturing,2025-07-12 00:00:00.000000,,Manufacturing,,,United States
 play,Thern,2025-07-03 00:00:00.000000,US,Manufacturing,,,United States
@@ -2949,18 +3192,18 @@ play,Anchor Industries,2025-05-30 15:35:45.325517,,Manufacturing,,,United States
 play,FLOE Internationa,2025-05-30 00:00:00.000000,,Manufacturing,,,United States
 play,Ebac,2025-05-29 00:00:00.000000,GB,Manufacturing,,,United Kingdom
 play,KDV Label,2025-05-20 00:00:00.000000,US,Manufacturing,,,United States
-play,CNHI LLC,2025-05-17 00:00:00:000000,US,Manufacturing,,,United States
+play,CNHI LLC,2025-05-17 00:00:00.000000,US,Manufacturing,,,United States
 play,Vernon Milling,2025-05-15 00:00:00.000000,US,Manufacturing,,,United States
 play,Regal Ideas,2025-05-14 18:14:04.219429,CA,Manufacturing,,,Canada
-play,Custom Paper,2025-05-01 20:21:26.472266,,Manufacturing,,,Canada
-play,The Seydel Companies,2025-04-26 00:00:00:000000,US,Manufacturing,,,United States
+play,Custom Paper,2025-05-01 20:21:26.472266,CA,Manufacturing,,,Canada
+play,The Seydel Companies,2025-04-26 00:00:00.000000,US,Manufacturing,,,United States
 play,Technical Die-Casting,2025-04-26 00:00:00.000000,US,Manufacturing,,,United States
 play,Missouri Pipe Fittings,2025-04-24 00:00:00.000000,US,Manufacturing,,,United States
 play,PermaCold Engineering,2025-04-24 00:00:00.000000,US,Manufacturing,,,United States
 play,Mantel Machine Products,2025-04-23 00:00:00.000000,US,Manufacturing,,,United States
 play,Voigt-Abernathy Company,2025-04-04 00:00:00.000000,US,Manufacturing,,,United States
 play,Frederick's Machine & Tool Shop,2025-04-04 00:00:00.000000,,Manufacturing,,,United States
-play,PAC Strapping Products,2025-04-02 00:00:00:000000,US,Manufacturing,,,United States
+play,PAC Strapping Products,2025-04-02 00:00:00.000000,US,Manufacturing,,,United States
 play,KER Custom Molders,2025-03-31 00:00:00.000000,US,Manufacturing,,,United States
 play,ABITL Finishing,2025-03-28 00:00:00.000000,IN,Manufacturing,,,United States
 play,Cane Creek Cycling Components,2025-03-27 00:00:00.000000,US,Manufacturing,,,United States
