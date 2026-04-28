@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import time
+import os
 
 GROUPS = ["qilin", "thegentlemen", "akira", "incransom", "play"]
 BASE_URL = "https://www.ransomware.live/group/"
@@ -83,5 +84,8 @@ for group in GROUPS:
 df = pd.DataFrame(results)
 print("\n--- Summary ---")
 print(df.to_string(index=False))
-df.to_csv("group_summary.csv", index=False)
-print("\nSaved to group_summary.csv")
+OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "CSVs")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+output_path = os.path.join(OUTPUT_DIR, "group_summary.csv")
+df.to_csv(output_path, index=False)
+print("\nSaved to", output_path)
